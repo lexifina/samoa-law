@@ -1,0 +1,2 @@
+# 6C. Acknowledgment of payment during transitional period
+Where in respect of any payment made during the transitional period it is necessary, by reason of the use of a machine or instrument that operates according to the existing currency, to provide an acknowledgment expressed in the existing currency, the reference in the acknowledgment to the sum paid is to be construed as a reference to the corresponding sum in decimal currency, calculated under section 5(4)(b).

@@ -1,0 +1,2 @@
+# 6A. Altering currency in bill of exchange or promissory note
+Where it is necessary to alter any sum specified in any bill of exchange or promissory note issued or made according to the existing currency, for the purpose of facilitating its negotiation, collection or payment, and the alteration is made in accordance with section 5(4)(b), the alteration shall not render the bill or note void as against any party.
