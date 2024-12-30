@@ -1,0 +1,5 @@
+# 43A. Exportation of birds
+(1) A person shall not, without the prior written authority of the Minister, export or attempt to export from Samoa any bird, whether native, introduced, or imported, or that has migrated to Samoa or has arrived in Samoa and become established there (but not including any domestic bird), or any feathers, egg or other part of any such bird.
+(2) The Minister may refuse to grant authority under the subsection (1) or may grant authority either unconditionally or subject to such conditions as the Minister thinks fit to impose, and may revoke or vary any authority previously granted.
+(3) Before granting any authority under this section to export any bird, the Minister may require the applicant to satisfy the Minister that a permit for its importation into the country to which it is proposed to be exported has been granted by the appropriate authority in that country.
+(4) A person convicted of an offence under this section is liable to imprisonment for a period not exceeding 6 months or to a fine not exceeding 10 penalty units.
