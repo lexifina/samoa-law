@@ -1,0 +1,3 @@
+# 3A. Trustee companies may be relieved of certain obligations
+Despite any other provision of this Act, all trustee companies providing off-shore financial services in Samoa under any law that is administered by the Samoa International Finance Authority, may be exempted from any obligation arising under this Act, in accordance with Guidelines issued to that effect by the Money Laundering Prevention Authority. 3B Trustee companies' obligation to conduct due diligence and report suspicious transaction - (1) Despite section 3A, a trustee company must carry out a customer due diligence if required by the Authority.
+(2) A trustee company must report any suspicious transaction that may occur as a result of subsection (1) to the FIU for analysis and any further investigation.
