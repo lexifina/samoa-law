@@ -1,0 +1,2 @@
+# International Date Line Act 2011
+AN ACT to provide for the change to standard time in Samoa and to make consequential amendments to the position of the International Date Line, and for related purposes. [Assent date:28 June 2011] [Commencement date for whole Act: 29 December 2011] Commencement for section 5(3): 28 June 2011] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
