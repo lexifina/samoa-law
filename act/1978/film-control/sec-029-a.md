@@ -1,0 +1,9 @@
+# 29A. Seizure of films
+(1) Without limiting section 29, where the Principal Censor or a police officer discovers a person (hereinafter referred to as "affected person") offering for public supply, or exhibiting to the public, a film, not being a film that is exempted by section 15, and the Principal Censor or police officer believes, on reasonable grounds, that the film is supplied or exhibited in contravention of this Act, the Principal Censor or police officer may seize the film and any case or other container in or on which that film is kept or offered for public supply (hereinafter referred to as "seized material") from that affected person.
+(2) A police officer who seizes the seized material under subsection (1) must deliver the seized material to the Principal Censor within 24 hours from the time of seizure.
+(3) Upon receipt of the seized material, the Principal Censor shall:
+(a) carry out an investigation confirming whether the affected person was offering for public supply, or exhibiting to the public, the film in contravention of the Act; and
+(b) thereafter, notify the affected person of his or her determination and the steps to be taken to comply with subsections (4), (5) and (6) where applicable.
+(4) If the Principal Censor determines that the affected person has acted in contravention of this Act, the Principal Censor shall give the affected person 2 months from the date of the notice under subsection (3)(b) to comply with this Act in relation to the seized material.
+(5) If the affected person complies with this Act in relation to the seized material under the notice in subsection (3)(b), the Principal Censor may return the seized material to that affected person.
+(6) If the affected person does not comply with this Act in relation to the seized material in accordance with the notice in subsection (3)(b), the Principal Censor may dispose of the seized material.
