@@ -1,0 +1,3 @@
+# 30A. Alteration of maintenance agreement
+(1)Where by mutual consent a maintenance arrangement has been varied by written agreement permitting 1 party to leave Samoa, such an agreement shall be recognised by the Court as being binding on the parties to that agreement.
+(2) The power conferred to cancel or vary any maintenance order includes the power to remit, wholly or in part, any arrears due under the order; and any such arrears may be remitted either on the ground mentioned in this section or, if the Judge in his discretion thinks fit, on the ground that the defendant is not of sufficient ability to pay the same.
