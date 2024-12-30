@@ -1,0 +1,3 @@
+# 32A. Additional duty imposed
+(1) If an excise duty falls due under section 25 and remains unpaid, 10% of the amount of unpaid excise duty is to be added thereto by way of additional duty and shall be payable accordingly.
+(2) If an excise duty remains unpaid at the expiration of 1month after the date it falls due under section 25, a further additional excise duty of 2% of the amount of unpaid excise duty shall be added thereto and thereafter an additional duty of 2% of the amount of unpaid excise duty shall be added for each subsequent month that the said excise duty remains unpaid, and these additional duties shall be payable accordingly.
