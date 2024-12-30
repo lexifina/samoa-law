@@ -1,0 +1,2 @@
+# SCHEDULE 3
+Section 33(1) ENACTMENTS REPEALED 1908 - No. 8 : The Arbitration Act 1908 (New Zealand). 1915 - No.13 : The Arbitration Amendment Act 1915 (New Zealand). 1933 - No. 4 : The Arbitration Clauses (Protocol) and Arbitration (Foreign Awards) Act 1933 (New Zealand). 1938 - No. 6 : The Arbitration Amendment Act 1938 (New Zealand). 1952 - No.27 : The Arbitration Amendment Act 1952 (New Zealand). 1957 - No.44 : The Arbitration Clauses (Protocol) and the Arbitration (Foreign Awards) Amendment Act 1957.
