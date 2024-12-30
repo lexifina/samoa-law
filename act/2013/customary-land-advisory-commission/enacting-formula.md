@@ -1,0 +1,2 @@
+# Customary Land Advisory Commission Act 2013
+AN ACT to establish the Customary Land Advisory Commission to encourage, facilitate and promote greater economic use of customary land for the purpose of enhancing the social, cultural, economic and commercial development of Samoa and for related purposes. [Assent and commencement date: 5 April 2013] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
