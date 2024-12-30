@@ -1,0 +1,2 @@
+# Land Valuation Act 2010
+AN ACT to regulate the practice of land valuations by the registration and licensing of qualified land valuers and the prescription of requirements for land valuations and the application of a formula valuation system, and for related purposes. [Assent date: 19 October 2010] [Commencement Date: 1 December 2010] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
