@@ -1,0 +1,2 @@
+# Media Council Act 2015
+AN ACT to establish the Media Council and the Journalists Association of Samoa (JAWS), to provide for the development, application and enforcement of a code of practice relating to the news media, and to promote and enhance professional journalism, and for related purposes. [Assent and commencement date: 9 July 2015] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
