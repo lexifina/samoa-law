@@ -1,0 +1,2 @@
+# 152B. Offence committed by a body of persons
+If an offence under section 152A is committed by a body of persons, whether corporate or unincorporated, a person, who at the time of the commission of the offence, acted in an official capacity for or on behalf of such body of persons, whether as a director, manager, secretary or other similar officer, or was purporting to act in such capacity, shall be guilty of that offence unless the person adduces evidence to show that the offence was committed without the person's knowledge, consent or connivance.
