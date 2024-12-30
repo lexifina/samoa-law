@@ -1,0 +1,2 @@
+# SCHEDULE 2
+(Section 7) IMPORTED GOODS Consumables including camera expendables; batteries; specialised art department expendables such as model making chemicals, fixings glues, nail guns, ropes, hessian; some food items (those that are not available locally); specialised production stationery such as "write-in-the-rain" notebooks and pens, specific printer ink cartridges; contest buffs; filters and parts for shooting generators; electric expendables, miscellaneous specialised production expendables.
