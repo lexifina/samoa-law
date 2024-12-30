@@ -1,0 +1,2 @@
+# SCHEDULE 2
+(Section 28 (1)) ENACTMENTS REPEALED No. 24 - 1921 : The Arms Ordinance 1921. No. 2 - 1923 : The Arms Amendment Ordinance 1923. No. 2 - 1933 : The General Laws (No. 3) Ordinance 1933, section 2. No. 3 - 1951 : The Ordinance Amendment Ordinance 1951, section 4. No. 1 - 1958 : The Ordinance Amendment Ordinance 1958, section 6. No. 3 - 1959 : The Status Disabilities Removal Ordinance 1959, section 2.
