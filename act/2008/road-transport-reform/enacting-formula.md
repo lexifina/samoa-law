@@ -1,0 +1,2 @@
+# Road Transport Reform Act 2008
+AN ACT to provide for the transition and change of motor vehicles in Samoa from left hand drive to right hand drive and consequential changes to the required position of all vehicles on the roadway from the right side of the road to the left side, and for related purposes. [Assent date: 21 April 2008] [Commencement date except for sections 4 to 7: 21 April 2008] [Commencement date for sections 4 to 7:7 September 2009] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
