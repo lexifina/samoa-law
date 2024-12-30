@@ -1,0 +1,2 @@
+# Casino and Gambling Control Act 2010
+AN ACT to establish the Gambling Control Authority and, for the promotion of tourism to provide for the licensing of casinos and control of their operation, and for other forms of gambling, and for related purposes. [Assent date: 19 October 2010] [Commencement date: 8 March 2013] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
