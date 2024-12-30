@@ -1,0 +1,3 @@
+# 24G. Removal of trees
+(1) If the Minister is of the opinion that any line is or is likely to be in any manner injured or obstructed by any tree or shrub, whether ornamental or otherwise, growing or being on any land adjoining such line or over which any such line passes or is carried, he or she may cause notice to be given to the owner or occupier of that land to remove the said tree or shrub or any part thereof.
+(2) If the owner or occupier fails to comply with the terms of such notice within the time specified therein (being less than 7 days after service) the Minister or any officer, workman or other person by his or her direction may enter upon that land and remove the tree or shrub or any part thereof but so that no unnecessary damage is done or incurred thereby.

@@ -1,0 +1,4 @@
+# 24C. Lines not to interfere with traffic
+If the Minister places any line:
+(a) across or along or under any road, he or she shall not place any wire of the line so low as to stop, hinder or interfere with the lawful passage of any person or vehicle along the road: PROVIDED THAT no interference shall be deemed to be caused if the wires are places at a height of not less than 18 feet above the surface of the road where the wires cross the road, or at a height of not less than 14 feet elsewhere;
+(b) over or under any navigable waters, he or she shall place such line in such manner as not to hinder or interfere with the lawful navigation of such waters; and in maintaining, repairing, altering or removing any such line he or she shall cause no unnecessary or avoidable hindrance to or interference with the lawful passage along, or the lawful use of, any road or navigable waters.

@@ -1,0 +1,2 @@
+# 55A. Alternative form of compensation where land taken for forestry
+If land or any estate or interest in land or any easement or profit à prendre over land is taken for forestry and has millable timber trees growing thereon, then, despite anything to the contrary in this Act, the compensation payable therefor under this Part, whether ascertained by agreement or by order of the Court, may take the form, wholly or partly, of royalties or stumpage payable as the trees are felled or removed from the land or as at other times.

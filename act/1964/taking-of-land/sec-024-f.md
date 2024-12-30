@@ -1,0 +1,2 @@
+# 24F. Compensation
+In the exercise of the powers conferred by this Part, the Minister or his or her officers, workmen or others by his or her direction shall do as little damage as may be; and every person having any estate or interest in land entered upon for the purposes of this Part or injuriously affected thereby or suffering any damage from the exercise of any of the said powers shall be entitled to full compensation to be ascertained in the same manner as compensation for land taken under Part 3.

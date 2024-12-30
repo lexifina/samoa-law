@@ -1,0 +1,2 @@
+# 24D. Restriction as to entry on freehold or customary land
+Except as otherwise provided in this Part, the Minister or his or her officers, workmen or others by his or her direction shall not enter upon any land not being public land for the purpose of constructing any line except by day nor (unless with the consent in writing of the owner or occupier of the land or his or her authorised agent) until after one week's notice to the owner or occupier or agent of the intention to construct a line on the land.

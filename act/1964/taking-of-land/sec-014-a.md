@@ -1,0 +1,9 @@
+# 14A. Surveys, plans, notices and objections in respect of customary land
+Whenever it is proposed to take any customary land for any public purpose, the Minister shall:
+(a) ascertain from the Samoan Land and Titles Court if that Court has determined the matai who has the pule over that land; and
+(b) cause a survey to be made and a plan to be prepared and certified to be accurate, showing the land to be taken, the names of the matai who has the pule over that land if that has been determined by the Samoan Land and Titles Court, and if not the names of the matai proposed by the Minister to be dealt with as if he or she has that pule until the Samoan Land and Titles Court has determined who has that pule; and
+(c) cause a copy of such plan to be deposited in the office of the Ministry in Apia; and
+(d) cause a notice to be publicly notified, and to be sent to the matai named in the survey plan, or his or her agent, stating the Government's proposal to take the land, the public purpose for which it is wanted, that the plan thereof may be inspected in the office in ordinary office hours, and that, within 28 days from the publication of the notice in the Savali, written notice with reasons may be given -
+(i) to the Chief Executive Officer, by any person claiming to be affected, objecting to the taking of the land;
+(ii) to the Chief Executive Officer and to the Secretary for Justice, by any matai (whether or not he or she is the matai named in the said survey plan), claiming that he or she has the pule over the land; and
+(e) upon receiving from the Chief Executive Officer any such objection with any reason (other than an objection to the amount or method of payment of compensation), appoint a time and place in Samoa at which the objector may appear before the Minister or some person appointed by him or her and support the objection by such evidence and argument as the objector thinks fit.
