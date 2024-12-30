@@ -1,0 +1,2 @@
+# Planning and Urban Management Act 2004
+AN ACT to establish a Planning and Urban Management Agency and to implement a framework for planning the use, development, management and protection of land in Samoa in the present and long-term interests of all Samoans and for related purposes. [Assent date: 21 January 2004] [Commencement Date: 1 July 2004] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
