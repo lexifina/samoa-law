@@ -1,0 +1,2 @@
+# 10E. Currency translation
+All dollar amounts under this Part are in US dollars and in determining the balance or value of an account denominated in a currency (other than US$) for the purposes of this Part and the CRS, the institution shall translate the relevant US$ threshold amount described in the CRS or in this Part into the other currency by reference to the spot rate of exchange on the date for which the institution is determining the threshold amounts.
