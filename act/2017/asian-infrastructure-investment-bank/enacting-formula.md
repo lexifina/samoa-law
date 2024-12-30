@@ -1,0 +1,2 @@
+# Asian Infrastructure Investment Bank Act 2017
+AN ACT to provide for the raising of loans from the Asian Infrastructure Investment Bank, to give legal recognition to the status, privileges, immunities and exemptions to be accorded to the Bank, to give effect to the Articles of Agreement of the Bank, and for related purposes. [Assent and Commencement Date: 21st December 2017] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
