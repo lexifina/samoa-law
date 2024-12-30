@@ -1,0 +1,2 @@
+# Energy Management Act 2020
+AN ACT to provide for a coherent institutional, regulatory and policy framework for the energy sector, including the repeal of the Energy Efficiency Act 2017, Oil Fuel Supply Act 1974, Petroleum Act 1984 and other related purposes. [Date of Assent: 19 August 2020] [Commencement date: 30 October 2020] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
