@@ -1,0 +1,2 @@
+# Medical Practitioners Act 2007
+AN ACT to provide for the establishment of a reformed Medical Council, for the professional administration of the medical profession in Samoa and for the determination and enforcement of professional standards and requirements applying to medical practitioners and related matters. [Assent date:21 November 2007] [Commencement date: 1 January 2007] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
