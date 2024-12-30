@@ -1,0 +1,2 @@
+# SCHEDULE 2
+(Section 6 (b)) TABLE OF FEES PAYABLE TO THE REGISTRAR Fee on application for registration - $ 45.00 Fee for certificate of incorporation - 45.00 Fee for alteration of rules - 24.00 Fee for certified copy or extract - 24.00 (if the copy or extract exceeds 3 folios of 72 words each an additional fee for each additional folio or part thereof) - 3.00 Fee for any other document required to be registered 24.00 Fee for inspection of Register - 12.00 Fee for inspection of any document - 12.00

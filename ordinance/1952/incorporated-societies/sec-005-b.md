@@ -1,0 +1,2 @@
+# 5B. Penalty for improper use of the word "Incorporated"
+If a person or persons carry on business or activity under the name or title of which "Incorporated", or any contraction or imitation of that word, is the last word, that person or those persons actively carrying on business activities commit an offence and is, unless duly incorporated pursuant to this Ordinance, liable upon conviction to a fine of 1 penalty unit for every day upon which that name or title is used.
