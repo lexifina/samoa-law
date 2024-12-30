@@ -1,0 +1,2 @@
+# THIRD SCHEDULE
+(Section 20) FORM OF DECLARATION I, (Insert full name) of (Insert place of abode and occupation) solemnly and sincerely declare that (Insert facts). And I make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths, Affidavit and Declarations Act 1963. Declared at………………this………day of) )………. (Signature) ………………….20..…. before me: ) (Signature) Solicitor of the Supreme Court of Samoa (or other person authorised to take a statutory declaration) The Acts Interpretation Act 1924 (NZ) is no longer in force in Samoa
