@@ -1,0 +1,2 @@
+# Civil Aviation Act 1998
+AN ACT to establish rules of operation and divisions of responsibility within the Samoa civil aviation system in order to promote aviation safety; and to ensure that Samoa's obligations under international aviation agreements are implemented; and to consolidate and amend the law relating to civil aviation in Samoa. [Assent date: 19 June 1998] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
