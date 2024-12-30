@@ -1,0 +1,26 @@
+# Ministry of Transport Act 1978
+
+Official revised version as at 2024-12-31 (Ministry of Justice and Courts Administration of Samoa) · <https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FMinistry%20of%20Transport%20Act%201978.pdf?alt=media>
+
+| Provision | File |
+| --- | --- |
+| Title and enacting words | [enacting-formula.md](enacting-formula.md) |
+| Section 1 | [sec-001.md](sec-001.md) |
+| Section 2 | [sec-002.md](sec-002.md) |
+| Section 3 | [sec-003.md](sec-003.md) |
+| Section 4 | [sec-004.md](sec-004.md) |
+| Section 5 | [sec-005.md](sec-005.md) |
+| Section 6 | [sec-006.md](sec-006.md) |
+| Section 7 | [sec-007.md](sec-007.md) |
+| Section 8 | [sec-008.md](sec-008.md) |
+| Section 9 | [sec-009.md](sec-009.md) |
+| Section 10 | [sec-010.md](sec-010.md) |
+| Section 11 | [sec-011.md](sec-011.md) |
+| Section 12 | [sec-012.md](sec-012.md) |
+| Section 13 | [sec-013.md](sec-013.md) |
+| First Schedule | [sched-01.md](sched-01.md) |
+| Second Schedule | [sched-02.md](sched-02.md) |
+| Third Schedule | [sched-03.md](sched-03.md) |
+| Fourth Schedule | [sched-04.md](sched-04.md) |
+| Fifth Schedule | [sched-05.md](sched-05.md) |
+| Sixth Schedule | [sched-06.md](sched-06.md) |
