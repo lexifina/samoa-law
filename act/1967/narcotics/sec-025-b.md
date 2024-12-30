@@ -1,0 +1,3 @@
+# 25B. Mandatory reporting of suspicion of illegal use of a narcotic or controlled precursor
+(1) If a medical practitioner, nurse, pharmacist, dentist or veterinary reasonably suspects that a person they are treating or providing service for has illegally used a narcotic or controlled precursor, that medical practitioner, nurse, pharmacist, dentist or veterinarian must as soon as practicable report to a police officer the name of the person they are treating or serving and the grounds of their suspicion.
+(2) A medical practitioner, nurse, pharmacist, dentist or veterinarian who fails to report to a police officer as required under subsection (1), commits an offence and is liable to a fine not exceeding 10 penalty units.
