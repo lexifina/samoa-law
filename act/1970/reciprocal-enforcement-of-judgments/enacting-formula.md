@@ -1,0 +1,2 @@
+# Reciprocal Enforcement of Judgments Act 1970
+AN ACT to make provision for the enforcement in Samoa of superior Court judgments given in foreign countries which afford reciprocal treatment to superior Court judgments given in Samoa, for facilitating the enforcement in foreign countries of such judgments given in Samoa, and for other purposes in connection with the matters aforesaid. [Assent and commencement date:14 August 1970]
