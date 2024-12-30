@@ -1,0 +1,2 @@
+# Diesel Power Station Act 1965
+AN ACT to authorise the Minister responsible for works to enter into a contract with Maschienenfabrik Augsburg-Nurnberg Aktiengesellschaft of Augsburg in the Federal Republic of Germany Machinery Manufacturers (hereinafter called the contractor) for the sale and purchase, erection and installation of a Diesel Electric Power Station, and incidental thereto. [Assent and commencement date: 12 April 1965]
