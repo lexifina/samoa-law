@@ -1,0 +1,2 @@
+# Postal and Telecommunications Services Act 1999
+AN ACT to progressively repeal parts of the Post Office Act 1972 and to make provision for the delivery of postal and telecommunication services by a service provider licensed under this Act, and for related purposes. [Assent date: 30 June 1999] [Commencement date: 1 July1999] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:

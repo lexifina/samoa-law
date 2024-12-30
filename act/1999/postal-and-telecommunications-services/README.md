@@ -1,0 +1,16 @@
+# Postal and Telecommunications Services Act 1999
+
+Official revised version as at 2024-12-31 (Ministry of Justice and Courts Administration of Samoa) · <https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPostal%20and%20Telecommunications%20Services%20Act%201999.pdf?alt=media>
+
+| Provision | File |
+| --- | --- |
+| Title and enacting words | [enacting-formula.md](enacting-formula.md) |
+| Part 1 | [part-01.md](part-01.md) |
+| Section 1 | [sec-001.md](sec-001.md) |
+| Section 2 | [sec-002.md](sec-002.md) |
+| Section 3 | [sec-003.md](sec-003.md) |
+| Section 4 | [sec-004.md](sec-004.md) |
+| Part 2 | [part-02.md](part-02.md) |
+| Section 5 | [sec-005.md](sec-005.md) |
+| Section 6 | [sec-006.md](sec-006.md) |
+| Section 7 | [sec-007.md](sec-007.md) |
