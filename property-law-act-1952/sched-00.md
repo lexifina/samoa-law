@@ -1,0 +1,2 @@
+# Schedules
+FIRST SCHDULE (Section 3(3)) The matters contained in the First Schedule are not applicable to Samoa. PROVISIONS WHICH DO NOT APPLY TO LAND TITLES REGISTRATION ACT 2008 10 44 47(3) Section 52 except Rule (v) in Paragraph (b) 55 76 79 Partitions, exchanges etc. Form of conveyance What conveyance of land is deemed to include Application of stated conditions of sale Rights of purchaser as to execution Restriction on constructive notice Form on mortgage Endorsements on mortgages

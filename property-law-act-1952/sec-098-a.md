@@ -1,0 +1,3 @@
+# 98A. Transfer by mortgagee
+(1) Upon the registration of any transfer executed by a mortgagee for the purpose of any such sale as aforesaid, the estate or interest of the mortgagee therein expressed to be transferred shall pass to and vest in the purchaser, freed and discharged from all liability in account of the mortgage, or of any estate or interest except an estate or interest created by an instrument which has priority over the mortgage or which by reason of the consent of the mortgagee is binding on him.
+(2) This section shall only apply to mortgages registered on or after the commencement of the Land Titles Registration Act 2008.
