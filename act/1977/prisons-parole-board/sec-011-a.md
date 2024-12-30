@@ -1,0 +1,15 @@
+# 11A. Release for purpose of deportation
+(1) If:
+(a) a defendant who is subject to a sentence of imprisonment has been ordered to be deported under the Immigration Act 2020; and
+(b) a copy of the order, or a notice of the making of the order, has been served on the defendant; and
+(c) the defendant -
+(i) has no right of appeal under that Act against the making of that order; or
+(ii) the time for bringing the appeal has expired and the defendant has not brought an appeal; or
+(iii) the appeal has been determined and the order has not been quashed, the Minister for Immigration may, by notice in writing to the officer-in-charge of the prison in which the defendant is detained, order the release of the defendant into the custody of a police officer for the purpose of deportation.
+(2) A notice issued under subsection (1) is sufficient authority for the officer-in-charge of the prison to release the defendant accordingly on request by the police officer.
+(3) When a ship or aircraft becomes available to take the defendant from Samoa, and it is practicable in all the circumstances for the defendant to leave on that ship or aircraft, a police officer must require the officer-in-charge of the prison, pursuant to subsection (1), to deliver the defendant into the custody of the police officer who must escort the defendant or arrange for the defendant to be escorted to the seaport or airport and ensure that the defendant is placed upon the ship or aircraft and detained there until the ship or aircraft leaves Samoa.
+(4) If, for any reason, that ship or aircraft is delayed in Samoa for more than 24 hours, the defendant is to be returned to the custody of the officer-in-charge of the prison; and for that purpose the warrant by which the defendant was originally committed to the institution is still treated to be in force.
+(5) Thereafter, the officer-in-charge of the prison must, on request by a police officer, release the defendant into the custody of that police officer for deportation, and the provisions of this section apply to the request until the defendant is finally deported.
+(6) As an exception to subsection (1), in respect of a defendant to whom subsection (1) applies, the Commissioner of Police, Prisons and Corrections Services may, at any time within 28 days preceding the defendant's final release date, by notice in writing to the officer-in-charge of the prison in which the defendant is detained, order the release of the defendant into the custody of a police officer in possession of the notice; and that notice is sufficient authority for the officer-in-charge of the prison to release the defendant accordingly.
+(7) Thereafter, subsections (3) to (5) apply as if the release were ordered by the Minister responsible for Immigration.
+(8) If a defendant is released and deported pursuant to this section, the defendant's sentence continues to run, and, if the defendant subsequently returns to Samoa before the sentence expiry date the defendant is, subject to section 10 and 10A, liable to resume serving it.

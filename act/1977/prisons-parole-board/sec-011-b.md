@@ -1,0 +1,15 @@
+# 11B. Jurisdiction of Parole Board to release defendants on parole
+(1) Subject to subsections (3), (4), and (7), the Parole Board must consider the case of a defendant to whom this section applies, as soon as practicable after the defendant becomes eligible to be released on parole under section 10, and at least once in every 12 months after the defendant becomes so eligible.
+(2) Subject to subsections (3), (4), and (7), a defendant to whom this section applies and whose case has been considered by the Parole Board, may thereafter apply to the Board to have the case considered again; and the Board must consider the case again unless the application is made within 6 months after a previous application by the defendant under this subsection, when it may refuse to consider the case.
+(3) A defendant who has been recalled to a prison to continue serving his or her sentence pursuant to section 15, or in respect of whom a direction for return has been made under this Act must have his or her case for further release considered by the Board not later than 12 months after the date of recall or return, as the case may be, and at least once in every 12 months thereafter.
+(4) A defendant referred to in subsection (3) who has been recalled or returned to a prison may:
+(a) at any time after his or her recall or return, apply to the Parole Board to have his or her case considered for parole; and
+(b) from time to time thereafter, apply to the Board to have his or her case considered again, and the Board must consider the case as soon as practicable after an application is made under paragraph (a), and must consider the case again as soon as practicable after each subsequent application under paragraph (b) unless the application is made within 6 months after a previous application by the defendant under this subsection, when it may refuse to consider the case.
+(5) As an exception to section 10 or any order made under section 68 of the Sentencing Act 2016, a member of the Parole Board may, at any time, refer to the Board the case of a defendant to whom this section applies, and the Board must consider the case as soon as practicable.
+(6) As an exception to section 10, but subject to subsection
+(7), the Parole Board must consider the case of each defendant belonging to any class of defendants, being defendants to whom this section applies, that the Minister designates as a class to be so considered.
+(7) The Parole Board must not consider under subsection (2),
+(3), or (6) the case of a defendant in respect of whom an order was made under section 65 or 68 of the Sentencing Act 2016 or until the expiry of the period specified in the order.
+(8) If, after considering any case to which any of subsections
+(1) to (6) applies, the Parole Board is of the opinion that the defendant should be released on parole, it may direct that the defendant be released on parole accordingly, despite anything to the contrary in section 10.
+(9) A direction given by the Parole Board for the release of any defendant on parole may be revoked by the Parole Board at any time before the defendant is released.
