@@ -1,0 +1,4 @@
+# 22A. Double payment of compensation
+(1) Despite anything in this Act, no person is entitled to receive compensation under this Act where such person is determined by the Corporation to be receiving compensation from a similar scheme in another country.
+(2) Where a person is determined to be receiving compensation from a similar scheme overseas, the Corporation is entitled to seek a refund of the monies which have been awarded to the person under this Act and such monies shall be treated as a debt owing to the Corporation.
+(3) A person who fraudulently declares, whether in writing or not, to the Corporation that he or she is not receiving compensation from a similar scheme in another country commits an offence and upon conviction is liable to a fine not exceeding 10 penalty units or to imprisonment for a term not exceeding 5 years, or both.
