@@ -1,0 +1,3 @@
+# 17A. Moneys payable to Organisation
+(1) There are payable to the Organisation such moneys as are appropriated by the Parliament for the purposes of this Act.
+(2) The Minister of Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Organisation.
