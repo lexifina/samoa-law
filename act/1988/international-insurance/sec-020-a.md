@@ -1,0 +1,5 @@
+# 20A. Share not to be issued or transferred without approval
+(1) No shares in or other securities whatsoever of a registered insurer are to be issued and no issued shares or beneficial interests in shares or other securities of any registered insurer are to be transferred or disposed of in any manner without the prior written approval of the Registrar: PROVIDED THAT the Registrar may exempt any registered insurer from this section, subject to the terms and conditions, if any, as the Registrar may deem necessary.
+(2) In subsection (1) the reference to shares of any registered insurer being transferred or disposed of includes any transfer or disposition that would result in any change in beneficial ownership of the registered insurer.
+(3) Despite subsection (1), the prior written approval of the Registrar shall not be required where shares or other securities are issued to existing shareholders on a pro-rata basis.
+(4) No bearer shares or share warrants to bearer may be issued by a registered insurer.
