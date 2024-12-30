@@ -1,0 +1,2 @@
+# Nursing and Midwifery Act 2007
+AN ACT to provide for the establishment of a reformed Council of Nursing and Midwifery, for the administration of the nursing profession in Samoa and for the determination and enforcement of standards and requirements applying to the training, employment and duties of nurses and midwives and for related matters. [Assent date: 2February 2007] [Commencement date: 16 March 2007] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
