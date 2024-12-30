@@ -1,0 +1,21 @@
+# SCHEDULE 2
+(Section 11) PROCEDURES CONCERNING COMMUNITY SERVICE OBLIGATION
+2. Procedures for the issuing of a direction applied for by the Board of Directors of a Public Trading Body or a Minister, for the performance of a Community Service Obligation (CSO) 2.1 Before the Minister of Finance issues a direction the following procedures have to be complied with: 2.1.1 The board of a public trading body under Schedule 1 or a Minister may apply through the Ministry of Finance to issue a direction to provide a CSO. 2.1.2 An application under subclause 2.1.1 for a direction of a CSO shall include:
+(a) the scope of the CSO; and This section shall provide a description of the function to be performed, service provided or concession allowed; and
+(b) the legislative authority under which the CSO is being provided; and This section shall refer to the legislative authority in section 10 of the Act given to a public trading body to perform the CSO.
+(c) any other Government objective being pursued that is not covered in the Act; and This section should provide what outcome the Government is achieving from the delivery of this CSO. The implications for this objective of not continuing the CSO should also be examined;
+(d) the past or intended results of the CSO; and This section shall provide details of the past results or intended results of the CSO activity. It shall state the:
+(i) beneficiaries and benefits from providing the CSO; and
+(ii) activity or program of the Public Trading Body that would be affected in the performance of the CSO; and
+(iii) effect on the Public Trading Body of providing the CSO.
+(e) the total cost of the delivery of the CSO; and
+(f) details of any revenue associated with the CSO; and This section shall provide the details of the revenue sources associated with providing the CSO, for instance, Government funding or other funding; and
+(g) the performance measures for delivering the CSO; and
+(h) approved application for Community Service Obligation will be registered in the registry for CSO with the Ministry of Finance, and would not be required to provide the requirements in 2.1.2(a) - (d) the next time they file an application under this Schedule. 2.1.3 Every application in subclause 2.1.1 containing any estimated funding by Government shall be subject to the performance budgetary process and submitted to Treasury at a time necessary for the application to be considered in the Estimates but not later than 3 months before the end of the government financial year. 2.1.4 - 2.1.9 Repealed by section 4(e) of the Public Bodies (Performance and Accountability) Amendment Regulations 2011. 2.2, 2.2.1 - 2.2.4: Repealed by section 4(e) of the Public Bodies (Performance and Accountability) Amendment Regulations 2011. 2.3 Requirements to be included in the issuing of a CSO by the Shareholding Ministers 2.3.1 Any direction to be issued under this Schedule by the Responsible Minister for the provision of a CSO must state:
+(a) the scope of the CSO; and this section shall provide a description of the function performed, service provided or concession allowed.
+(b) the legislative authority under which the CSO is being provided; and This clause refers to the authority in section 10 of the Act given to a public trading body to perform the CSO.
+(c) the date or time within which the CSO is to be performed, and
+(d) the performance measures for delivering the CSO; and
+(e) the standards to be achieved in delivering the CSO; and
+(f) that the annual cost of the provision of every CSO shall be published in the public trading body's audited accounts.
+(g) repealed by section 4(e) of the Public Bodies (Performance and Accountability) Amendment Regulations 2011. 2.4 Transitional arrangements for public trading bodies who are currently performing non-commercial services to turn them into CSOs - 2.4.1 The public trading bodies providing existing non- commercial services shall apply to the responsible Minister to have the future delivery of these services embodied within the CSO framework. A deadline of 12 months from the date of this Schedule coming into force shall be set for the public trading bodies to either embody these services within the CSO framework or have these services delivered under an alternative arrangement.
