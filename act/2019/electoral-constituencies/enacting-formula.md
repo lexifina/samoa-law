@@ -1,0 +1,2 @@
+# Electoral Constituencies Act 2019
+AN ACT to set out electoral constituencies and villages under each constituency. [Assent date: 31 January 2019] [Commencement date: Section 4 commences on 31 January 2019. The whole Act commences on the day the Head the Head of State dissolves the Legislative Assembly under Article 63(4) of the Constitution of the Independent State of Samoa]. BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
