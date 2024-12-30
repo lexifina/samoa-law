@@ -1,0 +1,4 @@
+# 44B. Effects of International Registration
+(1) The international registrations shall, from the filing date of the international application, have the same effect in Samoa as a regularly-filed application for the grant of protection of the industrial design under this Act.
+(2) If the Registrar has not communicated a refusal in accordance with Article 12 of the 1999 Act, the international registration shall have the same effect as a grant of protection for the industrial design under this Act from the filing date of the international application.
+(3) Where the Registrar has communicated a refusal and has subsequently withdrawn, in part or in whole that refusal, the international registration shall, to the extent that the refusal is withdrawn, have the same effect in Samoa as a grant of protection for the industrial design under this Act from the filing date of the international application.

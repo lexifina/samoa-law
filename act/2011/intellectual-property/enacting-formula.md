@@ -1,0 +1,2 @@
+# Intellectual Property Act 2011
+AN ACT to provide protection for intellectual property rights in Samoa which are trade marks, patents, innovation patents, plant breeder's rights, design rights, registered designs, geographical indications or appellation of origin and lay-out designs of integrated circuits. [Assent date: 11 October 2011] [Commencement date: 1 October 2012] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:

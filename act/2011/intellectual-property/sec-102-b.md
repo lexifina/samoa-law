@@ -1,0 +1,4 @@
+# 102B. Protection of international registration to extend to Samoa on payment of an administration fee
+(1) The protection resulting from international registration of each appellation of origin and each geographical indication shall extend to the Government of the Independent State of Samoa only when an administrative fee is paid to cover its cost of substantive examination of the international registration.
+(2) There shall also be paid by beneficiaries of the appellation of origin or the geographical indication registered internationally an administrative fee for every 10 year period relating to the use by the beneficiaries of the appellation of origin or the geographical indication in the Independent State of Samoa.
+(3) The administration fees under subsections (1) and (2) are to be prescribed by Regulations.
