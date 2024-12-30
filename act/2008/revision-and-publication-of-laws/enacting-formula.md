@@ -1,0 +1,2 @@
+# Revision and Publication of Laws Act 2008
+AN ACT to provide for the consolidation and revision of Samoa's statutes and subordinate legislation, and for the authorised publication and distribution of the revised laws in printed and electronic formats, and for related purposes. [Assent and commencement date: 25 January 2008] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
