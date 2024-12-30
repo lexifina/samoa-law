@@ -1,0 +1,2 @@
+# Samoan Language Commission Act 2014
+AN ACT to ensure the Samoan language is and remains a vibrant language, to declare the Samoan language as an official language, and to establish the Samoan Language Commission to provide its functions, duties and powers, and for related purposes. [Assent date: 7 April 2014] [Commencement date: 1 June 2014] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
