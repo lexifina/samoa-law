@@ -1,0 +1,2 @@
+# Robert Louis Stevenson Foundation Act 1991
+AN ACT to promote the honouring of the memory of Robert Louis Stevenson known to the people of Samoa as "Tusitala" and to give recognition to and to assist by the granting of a lease and other privileges the work of a body corporate known as the Robert Louis Stevenson Museum/Preservation Foundation Incorporated and for matters incidental thereto. [Assent and commencement date: 17 December 1991]
