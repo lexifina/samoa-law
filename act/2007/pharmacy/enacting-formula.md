@@ -1,0 +1,2 @@
+# Pharmacy Act 2007
+AN ACT to provide for the establishment of a reformed Pharmacists Council, for the professional administration of the pharmacy profession in Samoa and for the determination and enforcement of professional standards and requirements applying to pharmacists and pharmacist assistants and pharmacist technicians and for related matters. [Assent date: February 2007] [Commencement date 16 March 2007] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
