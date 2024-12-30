@@ -1,0 +1,2 @@
+# Disaster and Emergency Management Act 2007
+AN ACT to provide for the management of disasters and emergencies in Samoa by effective planning and risk reduction, response and recovery procedures and the promotion of coordination amongst the response agencies, and for related purposes. [Assent and commencement date: 16 February 2007] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
