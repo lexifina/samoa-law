@@ -1,0 +1,2 @@
+# Spatial Information Agency Act 2010
+AN ACT to establish a Spatial Information Agency to implement ready access to spatial data, to promote the use of spatial data to support effective planning, management and protection of natural resources for Samoa, and for related purposes. [Assent date: 19 October 2010] [Commencement date: 1 December 2010] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
