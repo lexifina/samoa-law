@@ -1,0 +1,14 @@
+# 33A. Variation or cancellation of sentence of community work
+(1) A defendant who is subject to a sentence of community work, or a probation officer, may apply under section 45 of the Sentencing Act 2016 for an order under subsection (3) of this section on the grounds that:
+(a) there has been a change of circumstances since the sentence was imposed that would justify the variation or cancellation of the sentence; or
+(b) having regard to any change in circumstances since the sentence was imposed and to the manner in which the defendant has responded to the sentence, the continuation of the sentence is no longer necessary in the interests of the community or the defendant.
+(2) A probation officer may apply under section 45 of the Sentencing Act 2016 for an order under subsection (3) of this section:
+(a) if a defendant who is subject to a sentence of community work is convicted of an offence punishable by imprisonment; or
+(b) on the grounds that the defendant has behaved in a manner described in section 44(1)(a) to (j) of the Sentencing Act 2016.
+(3) On an application under subsection (1) or (2), the court may, if it is satisfied that the grounds on which the application is based have been established:
+(a) vary the sentence by reducing the number of hours of work to be done; or
+(b) cancel the sentence; or
+(c) cancel the sentence and substitute any other sentence (including another sentence of community work) that could have been imposed on the defendant at the time when the defendant was convicted of the offence for which the sentence was imposed.
+(4) When determining a substitute sentence under subsection
+(3)(c), the court must take into account the portion of the original sentence that remains un-served at the time of the order.
+(5) If the court cancels the sentence, the sentence expires on the date that the order is made or on any other date that the court may specify.
