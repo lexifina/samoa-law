@@ -1,0 +1,2 @@
+# Marine Pollution Prevention Act 2008
+AN ACT to provide for the prevention of pollution to the marine environment and for responses to marine pollution incidents emanating from vessels, and other matters related to the implementation of international marine pollution conventions. [Assent and commencement date: 25 January 2008] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
