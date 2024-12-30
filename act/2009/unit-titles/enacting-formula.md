@@ -1,0 +1,2 @@
+# Unit Titles Act 2009
+AN ACT to facilitate the subdivision of land into units to be owned by individual proprietors, and common property to be owned by all the unit proprietors as tenants in common, and for creation of folios of the Register with respect to those units, and to provide for the use and management of the units and common property, and for related purposes. [Assent date: 27 October 2009] [Commencement date: 14 July 2014] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
