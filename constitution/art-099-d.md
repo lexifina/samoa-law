@@ -1,0 +1,3 @@
+# 99D. Absence of Controller and Auditor General
+(1) If the Controller and Auditor General is unable to carry out his or her functions, duties and powers under this Constitution or any other Act or law because of illness, absence on leave or from Samoa or any other reason, the person who is appointed by an Act as the Assistant Auditor must carry out those functions, duties and powers.
+(2) If the Assistant Auditor is unable to carry out the functions, duties and powers of the office of the Controller under clause (1) because of illness, absence on leave or from Samoa or any other reason, the Controller must in writing appoint a senior officer of the Audit Office to carry out those functions, duties and powers.

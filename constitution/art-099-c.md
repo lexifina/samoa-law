@@ -1,0 +1,4 @@
+# 99C. Rights preserved
+(1) A person who was an officer or employee in the Public Service and who is appointed as Controller and Auditor General is entitled to retain all existing and accruing rights as if the service of that person as Controller and Auditor General were a continuation of service as an officer or employee in the Public Service.
+(2) During the term of appointment as Controller and Auditor General, the Controller and Auditor General is entitled to retain existing and accruing rights as if the Controller and Auditor General had continued in service as an officer or employee in the Public Service.
+(3) If a person ceases to hold office as Controller and Auditor General and becomes an officer in another capacity or an employee in the Public Service, the service of that person as Controller and Auditor General is to be regarded as service in that other capacity or as an employee in the Public Service for the purpose of determining accruing rights.
