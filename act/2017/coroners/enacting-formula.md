@@ -1,0 +1,2 @@
+# Coroners Act 2017
+AN ACT to provide a coronial system to investigate sudden or unexplained deaths or deaths in special circumstances through inquiries and inquests to help prevent deaths in circumstances similar to those deaths and for related purposes. [Assent date: 26 January 2017] [Commencement date: 1 September 2017] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
