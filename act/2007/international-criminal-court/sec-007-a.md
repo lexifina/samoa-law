@@ -1,0 +1,3 @@
+# 7A. Crime of aggression
+(1) A person who, in Samoa or elsewhere, commits a crime of aggression commits an offence and is liable on conviction to life imprisonment.
+(2) For the purpose of this section, "crime of aggression" is an act specified in article 8 bis of the Statute and includes any other act which at the time and in the place of its commission, constitutes crime of aggression according to customary international law or conventional international law or by virtue of it being criminal according to the general principles of law recognised by the community of nations, whether or not it constitutes a contravention of the law in force at the time and in the place of its commission.
