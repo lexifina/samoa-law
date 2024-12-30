@@ -1,0 +1,3 @@
+# 50J. Ownership of ship registered under this Part
+(1) This Act does not assert any ownership rights over a ship registered under this Part and it has no effect with regards to title and transfer and transmission of such ship or shares therein.
+(2) A transfer of ownership of a ship registered under this Part must be notified by the charterers to the Registrar, and the registration of the ship under this Part is closed unless the new owners, within 7 days, have informed the Registrar that they have no objection to the registration of the ship under this Part and, within 30 days of having made such declaration, delivered to the Registrar their consent in writing to such registration.

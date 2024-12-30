@@ -1,0 +1,2 @@
+# 50C. Ascertainment of Tonnage
+The Tonnage of a ship to be registered under this Part is ascertained in accordance with the Tonnage Regulations made under this Act, provided that at the request of the Charterer the Registrar may accept the tonnage of such ship to be that registered in the underlying registry if the Registrar is satisfied that the Tonnage Measurement Convention, if applicable to such ship and unless such ship has been excepted from them, have been adhered to.

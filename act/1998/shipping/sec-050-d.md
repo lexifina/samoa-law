@@ -1,0 +1,3 @@
+# 50D. Name of Ship Bareboat Charter Registered in Samoa
+(1) Subject to subsection (2), a ship is registered under this Part by the name under which it is registered in the underlying registry, provided that such name is not already the name of a registered Samoan Ship or a name so similar as to be likely to deceive.
+(2) The name of a ship to be registered or of a ship already registered under this Part, may be changed, prior or subsequent to registration under this Part as the case may be provided the appropriate authorities of the underlying registry, the owners, and the registered mortgagees, if any, have consented thereto and provided also that such change is made in accordance with the directions of the Registrar.

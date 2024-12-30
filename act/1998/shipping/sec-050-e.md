@@ -1,0 +1,6 @@
+# 50E. Bareboat Charter Registration
+(1) The Registrar, if satisfied that all conditions for registration specified in this Part and in other Parts where applicable, have been complied with, and on payment of the prescribed fee shall:
+(a) enter in the Register provided for in section 16, all particulars of the ship and its underlying registration, owners and charterers, stating that it is a bareboat charter registration, the expiry date of such registration, and that the register does not contain an official record of any mortgages affecting the ship; and
+(b) inform the appropriate authorities of the underlying registry of the registration under this Part; and
+(c) issue a certificate of bareboat charter registration, which shall include the name and particulars of the ship, the name of the home port Apia and the expiry date of the registration.
+(2) Upon the issue of a certificate of bareboat charter registration, all documents issued to the ship by the underlying registry, must be surrendered to the appropriate authorities of that registry and, within 30 days of the issue of the certificate as aforesaid, the charterer shall make and deliver to the Registrar a declaration to that effect.
