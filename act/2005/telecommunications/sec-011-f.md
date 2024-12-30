@@ -1,0 +1,3 @@
+# 11F. Government may be represented in any proceeding
+(1) In all Tribunal proceedings, the Attorney General may elect to represent the Government, and in any such case, the Government shall be regarded as a party to the dispute.
+(2) No order for the payment of any costs associated with any Tribunal proceedings may be made against the Government.

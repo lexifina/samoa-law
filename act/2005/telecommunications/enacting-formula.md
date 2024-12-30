@@ -1,0 +1,2 @@
+# Telecommunications Act 2005
+AN ACT to establish a new legislative framework for the telecommunications sector, and to repeal and harmonize certain provisions of the Post Office Act 1972, the Postal and Telecommunications Services Act 1999 and the Post and Telecommunications Internet Act 1997. [Assent date: 29 June 2005] [Commencement date 27 July 2005] BE IT ENACTED by the Legislative assembly of Samoa in Parliament assembled as follows:
