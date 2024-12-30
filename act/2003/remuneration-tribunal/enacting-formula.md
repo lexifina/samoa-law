@@ -1,0 +1,2 @@
+# Remuneration Tribunal Act 2003
+AN ACT to provide for advice to Government concerning the salaries, allowances and other benefits to be paid to certain holders of public office and other persons and to enable the Head of State to set the salaries, allowances and other benefits to be paid to certain holders of public office and for related purposes. [Assent date: 29 August 2003] [Commencement date: 12 September 2003] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament as follows:
