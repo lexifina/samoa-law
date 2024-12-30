@@ -1,0 +1,2 @@
+# Samoa Trust Estates Corporation Reconstruction Act 1990
+AN ACT to assist the reorganisation of the Samoa Trust Estates Corporation and to vest in that Corporation and to divest from it interests in certain lands; to make provision for the reduction of debts due by it to the Government; to provide for the privatisation of its operation; and for objects incidental thereto. [Assent and commencement Date: 29 August 1990]
