@@ -1,0 +1,2 @@
+# Appropriation Act 2025-2026
+AN ACT to authorise the appropriation of certain sums of money out of the Treasury Fund and the Public Trustee's Account and their specific application to output and sub-outputs delivered by Ministries/Departments, outputs delivered by third parties and transactions undertaken on behalf of the State for the Financial Year ending on the 30th June 2026 ("Financial Year 2025/2026"). [29th October 2025] BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
