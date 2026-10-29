@@ -1,0 +1,29 @@
+{
+ "parts": {
+  "20-criminal-procedure-act-2016.json": {
+   "acts": [
+    "criminal-procedure-act-2016"
+   ],
+   "sha256": "fd1cfaa1766f6d5d02e9ae5824efd236937bc051ed7e520017956dec1b10644e"
+  },
+  "21-evidence-act-2015.json": {
+   "acts": [
+    "evidence-act-2015"
+   ],
+   "sha256": "d3b7e7f5bb75057ff709a3996a2df0e37932b1318df94792015397331515c293"
+  },
+  "22-labour-employment-relations-act-2013.json": {
+   "acts": [
+    "labour-employment-relations-act-2013"
+   ],
+   "sha256": "45578bf210516e4ca9a513a1ee66b3b1485bf2e9838dc3aab640a4c456d483c6"
+  },
+  "23-sale-of-goods-act-1975.json": {
+   "acts": [
+    "sale-of-goods-act-1975"
+   ],
+   "sha256": "11e7f0c4aa49c344f940c87d427ed63ad96c05c7679e00623266e88c3823686e"
+  }
+ },
+ "schema": 1
+}
