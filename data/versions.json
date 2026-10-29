@@ -1,0 +1,117 @@
+{
+ "country": "WS",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution of the Independent State of Samoa 1960",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FConstitution%20of%20the%20Independent%20State%20of%20Samoa%201960.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 158,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FConstitution%20of%20the%20Independent%20State%20of%20Samoa%201960.pdf?alt=media",
+     "sha256": "b5428b33f2fe0009df07f1c4cd9857b10a9166291f5a0fe7b782e76ed92b30cb"
+    }
+   ]
+  },
+  {
+   "slug": "crimes-act-2013",
+   "short": "Crimes Act",
+   "title": "Crimes Act 2013",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCrimes%20Act%202013.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 255,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCrimes%20Act%202013.pdf?alt=media",
+     "sha256": "3e61b518f1e555ce675d8a5cbf59738db226099470299ad8b9ebc9cc8ca29e84"
+    }
+   ]
+  },
+  {
+   "slug": "companies-act-2001",
+   "short": "Companies Act",
+   "title": "Companies Act 2001",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCompanies%20Act%202001.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 476,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCompanies%20Act%202001.pdf?alt=media",
+     "sha256": "e5cd297bb0387065b33898e79712827d74d11fddeeefc95a5f3217fda77f4fd3"
+    }
+   ]
+  },
+  {
+   "slug": "property-law-act-1952",
+   "short": "Property Law Act",
+   "title": "Property Law Act 1952",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FProperty%20Law%20Act%201952.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 198,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FProperty%20Law%20Act%201952.pdf?alt=media",
+     "sha256": "e538b2cc1196df31a94f28047a66030c6edb1591f010c5a77847c8eb3fbb2e24"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure-act-2016",
+   "short": "Criminal Procedure Act",
+   "title": "Criminal Procedure Act 2016",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCriminal%20Procedure%20Act%202016.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 236,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCriminal%20Procedure%20Act%202016.pdf?alt=media",
+     "sha256": "dfd61cd2aa1e319829b2e7ca15969123456d5d75b4c841b6bfaa74f2051f0a30"
+    }
+   ]
+  },
+  {
+   "slug": "evidence-act-2015",
+   "short": "Evidence Act",
+   "title": "Evidence Act 2015",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FEvidence%20Act%202015.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 167,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FEvidence%20Act%202015.pdf?alt=media",
+     "sha256": "13c0933e7163a65460e1e339ba5aac0391ad220301854ad40097f96e964748c6"
+    }
+   ]
+  },
+  {
+   "slug": "labour-employment-relations-act-2013",
+   "short": "LERA",
+   "title": "Labour and Employment Relations Act 2013",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLabour%20and%20Employment%20Relations%20Act%202013.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 105,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLabour%20and%20Employment%20Relations%20Act%202013.pdf?alt=media",
+     "sha256": "72f330009bcb36a46dee1eb3b6efacad8b94f65627d89bfd2814fb2a5904dc58"
+    }
+   ]
+  },
+  {
+   "slug": "sale-of-goods-act-1975",
+   "short": "Sale of Goods Act",
+   "title": "Sale of Goods Act 1975",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSale%20of%20Goods%20Act%201975.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 80,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSale%20of%20Goods%20Act%201975.pdf?alt=media",
+     "sha256": "3d8b0432e9f8af5b0afc123e5f40ab9ce8ed5ed7a38095a628cd3eeebc96a7f8"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "path": "ws",
+  "code": "WS",
+  "name": "Samoa",
+  "level": "country",
+  "repo": "https://github.com/lexifina/samoa-law",
+  "build": "built: Constitution of the Independent State of Samoa 1960 (1 version); Companies Act 2001 (1 version); Crimes Act 2013 (1 version); Property Law Act 1952 (1 version)",
+  "register_date": "2026-10-28",
+  "sources": 1
+}

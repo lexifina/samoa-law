@@ -1,0 +1,5 @@
+The legal text comes from the official consolidated legislation of the Ministry of Justice and Courts Administration of Samoa (https://mjca.gov.ws/legislation/legislation.html), retrieved on 29 October 2026: Constitution of the Independent State of Samoa 1960, official version as at 31 December 2024. The Ministry states no licence for the legal texts. They are official legal texts; their copyright status is not confirmed here, and they are reproduced with the attribution above.
+
+Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line; spacing, quotes and dashes were normalised; running heads and page numbers were removed; and the text was arranged as git commits. The wording of the law was not changed. The Ministry of Justice and Courts Administration of Samoa does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
