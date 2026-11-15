@@ -1,56 +1,86 @@
 # Samoa: law history in git
 
+
+The law of Samoa as a git history: one file per provision (an article of the Constitution, or a section, Part heading or Schedule of an Act), one commit per version on the day it is in force from, and the law that made each change as the commit's author. The Ministry of Justice and Courts Administration publishes only the current revised text of each Act, so each act has one version so far, credited to the publisher; a later revision is added as a new commit, so that `git log` and `git blame` show each change from this version on.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Samoa's national law, which global-law reads at `samoa/national/acts/`.
 
-The law of Samoa as a git history. Each provision is one file, each law gets one commit on the day it took effect, and the law that made each change is the commit's author. `git blame` names the law behind every paragraph and `git log` lists every change to an article.
+**What is in it now:** the Constitution of the Independent State of Samoa 1960 and 7 Acts (Companies Act 2001, Crimes Act 2013, Criminal Procedure Act 2016, Evidence Act 2015, Labour and Employment Relations Act 2013, Property Law Act 1952, Sale of Goods Act 1975), each in one version, the Ministry's official revised text as at 31 December 2024: 1,675 provision files in all. [`data/versions.json`](data/versions.json) lists every act with its source PDF, and each act's folder has a `README.md` listing its provisions.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ws/`.
+Each Act is in `act/<year>/<name>/` (`act/2013/labour-employment-relations/sec-040.md` is section 40, Annual leave, of the Labour and Employment Relations Act 2013); the Constitution is in [`constitution/constitution/`](constitution/constitution/), one file per article. [`data/paths.json`](data/paths.json) maps each act id to its folder.
 
-This is a first build: the Constitution and, added in phase 2, core statutes (criminal law and procedure, evidence, companies, sale of goods, property and labour law). The Ministry publishes one current revised text of each Act, so each has one version, the oldest version available.
+The text is in English, as the Ministry's revised PDFs print it, one paragraph per line. The Constitution is also authoritative in Samoan; that text is not part of this record.
 
-## What is in it now
+## Questions as git commands
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | Constitution of the Independent State of Samoa 1960 | 1 | Official revised version as at 31 December 2024; earlier versions are not published online by the Ministry |
-| `companies-act-2001/` | Companies Act 2001 | 1 | Official revised version as at 31 December 2024; earlier versions are not published online by the Ministry |
-| `crimes-act-2013/` | Crimes Act 2013 | 1 | Official revised version as at 31 December 2024; earlier versions are not published online by the Ministry |
-| `property-law-act-1952/` | Property Law Act 1952 | 1 | Official revised version as at 31 December 2024; earlier versions are not published online by the Ministry |
-| `criminal-procedure-act-2016/` | Criminal Procedure Act 2016 | 1 | Official revised version as at 31 December 2024; earlier versions are not published online by the Ministry |
-| `evidence-act-2015/` | Evidence Act 2015 | 1 | Official revised version as at 31 December 2024; earlier versions are not published online by the Ministry |
-| `labour-employment-relations-act-2013/` | Labour and Employment Relations Act 2013 | 1 | Official revised version as at 31 December 2024; earlier versions are not published online by the Ministry |
-| `sale-of-goods-act-1975/` | Sale of Goods Act 1975 | 1 | Official revised version as at 31 December 2024; earlier versions are not published online by the Ministry |
+| Question | Command |
+| --- | --- |
+| Every change to section 40 (Annual leave) of the Labour and Employment Relations Act | `git log -p --word-diff --follow -- act/2013/labour-employment-relations/sec-040.md` |
+| Which version wrote each line of section 40? | `git blame act/2013/labour-employment-relations/sec-040.md` |
+| Every version of section 40, with the day each is in force from | `git log --follow --diff-filter=AM --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- act/2013/labour-employment-relations/sec-040.md` |
+| Section 40 as the record holds it on 1 January 2026 | `python tools/on.py 2026-01-01 act/2013/labour-employment-relations sec-040` |
 
-The per-act `README.md` in each folder lists every provision.
+**Outside git**, we also host this record publicly, for free:
 
-## Where the text comes from
+- **[Ask Claude about Samoan law](https://global-law.lexifina.com/v1/try_claude?country=samoa)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=samoa)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=samoa)**: a search of Samoan law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-The text is the Constitution of the Independent State of Samoa 1960 as published by the Ministry of Justice and Courts Administration of Samoa (MJCA, mjca.gov.ws), the official version revised by the Legislative Drafting Division under the Revision and Publication of Laws Act 2008, retrieved on 29 October 2026. Its Revision Notes say: "This is the official version of the Constitution as at 31 December 2024." The Ministry's published PDF has a born-digital text layer.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-The Acts are the Ministry's official revised versions of the same kind, each "as at 31 December 2024" by its own Revision Notes; the Criminal Procedure, Evidence, Labour and Employment Relations and Sale of Goods Acts were retrieved on 30 October 2026.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-Language: English (the Constitution is also authoritative in Samoan, which is not in this record).
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add samoa/national/acts
+python3 tools/law.py show 2026-01-01 samoa/national/acts/act/2013/labour-employment-relations/sec-040.md
+```
 
-## Not included yet
-
-- The Samoan-language text of the Constitution.
-- Earlier versions of the Constitution and the Constitution Amendment Acts that made each change (the Revision Notes list them, but their texts are not in this record).
-- Every other Act of Samoa. The Ministry also publishes some 270 consolidated Acts; only those listed in the table above are in this record.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-The single version is dated 31 December 2024, the day the Ministry states the revised Constitution is "as at". It is not the day the Constitution took effect (it came into force on Independence Day, 1 January 1962); the record has no older text. The commit is dated noon, Pacific/Apia, on that day, and is authored by the publisher as "oldest version available".
+Each law commit is dated at noon, Pacific/Apia, and carries its day in its `In-force:` trailer:
+
+- for every act here, 31 December 2024, the day the Ministry's Revision Notes say the revised text is "as at". It is not the day the act took effect (the Labour and Employment Relations Act commenced on 5 April 2013, the Constitution on 1 January 1962), nor proof of the day any amendment did;
+- `tools/on.py` reads the trailer, so it shows nothing for a day before 31 December 2024: the record holds no older text.
+
+Every law commit is authored by the publisher, `Ministry of Justice and Courts Administration of Samoa (Legislative Drafting Division)`, as the oldest version available (`Kind: publisher`): no line is credited to an amending Act, because without the earlier text nobody can tell which words an amendment wrote. The move of every act to its present folder (2026-11-10) is a commit of its own (`Kind: documentation`) that changes no law text; `git log --follow` and `git blame` see through it.
 
 ## How it is checked
 
-Every version is read back from git on the day it took effect and on the day before; both must match the corpus the repository was built from. The results are in `REPRODUCE.md`.
+- `tools/check_repo.py` reads every version back from git on the day it is in force from and on the day before, and compares it with the corpus the repository was built from: 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
+- A second build from the same corpus into an empty folder gave identical hashes for every commit and tag; the corpus's sha256 is in [`data/corpus.sha256`](data/corpus.sha256).
+- Every commit's trailers parse; there are no merge commits, commit dates never go back and none is in the future.
+- History is append-only: newer revisions and new acts go on top (`tools/append.py`), and no published commit is rewritten.
 
-## How it is built
+## What it does not show
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+- **Every other Act of Samoa.** The Ministry's catalogue lists 269 consolidated Acts; 8 of them are here.
+- **Any text but the revision as at 31 December 2024.** The Ministry publishes no earlier versions, and the amending Acts' own texts are not here.
+- **The Samoan text of the Constitution.** Its Revision Notes and the signatures of the Constitutional Convention are left out too.
+- **Some section boundaries** in the Crimes, Companies and Property Law Acts, which were read from the PDFs' plainer text layer: a few sections may sit inside the file before them (the Property Law Act has no file for sections 35 and 53).
+- **Subsidiary legislation and case law** are not part of this record.
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file.
+## Sources
 
-## What "author" means
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Ministry of Justice and Courts Administration](https://mjca.gov.ws/legislation/legislation.html) (MJCA) | Official revised versions (Legislative Drafting Division, Revision and Publication of Laws Act 2008) | no, the current revision only | One PDF per Act, each "as at 31 December 2024", read from its text layer; retrieved on 29 and 30 October 2026 |
 
-The author of a commit is the law that made the change. Its e-mail address cannot exist, so `git blame` and `git log --author` name laws. A version with no law of its own (the oldest version available) is authored by the publisher and says so. The committer is always Lexifina.
+## Licence
+
+See [`LICENSE`](LICENSE). The Ministry states no licence for the legal texts, and their copyright status is not confirmed; they are reproduced with attribution and without change to their wording, only split into files and lines. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
+
+No model wrote, translated or corrected legal text, and no model runs at build time; the scripts were written by Claude Code under Lexifina's direction (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
