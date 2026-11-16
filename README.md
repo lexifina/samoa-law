@@ -1,5 +1,9 @@
 # Samoa: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Samoan law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of Samoa as a git history: one file per provision (an article of the Constitution, or a section, Part heading or Schedule of an Act), one commit per version on the day it is in force from, and the law that made each change as the commit's author. The Ministry of Justice and Courts Administration publishes only the current revised text of each Act, so each act has one version so far, credited to the publisher; a later revision is added as a new commit, so that `git log` and `git blame` show each change from this version on.
 
