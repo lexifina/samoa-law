@@ -58,6 +58,7 @@ Every law commit is authored by the publisher, `Ministry of Justice and Courts A
 - A second build from the same corpus into an empty folder gave identical hashes for every commit and tag; the corpus's sha256 is in [`data/corpus.sha256`](data/corpus.sha256).
 - Every commit's trailers parse; there are no merge commits, commit dates never go back and none is in the future.
 - History is append-only: newer revisions and new acts go on top (`tools/append.py`), and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ Every law commit is authored by the publisher, `Ministry of Justice and Courts A
 See [`LICENSE`](LICENSE). The Ministry states no licence for the legal texts, and their copyright status is not confirmed; they are reproduced with attribution and without change to their wording, only split into files and lines. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
 
 No model wrote, translated or corrected legal text, and no model runs at build time; the scripts were written by Claude Code under Lexifina's direction (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
