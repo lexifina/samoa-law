@@ -9,9 +9,9 @@ The law of Samoa as a git history: one file per provision (an article of the Con
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Samoa's national law, which global-law reads at `samoa/national/acts/`.
 
-**What is in it now:** the Constitution of the Independent State of Samoa 1960 and 7 Acts (Companies Act 2001, Crimes Act 2013, Criminal Procedure Act 2016, Evidence Act 2015, Labour and Employment Relations Act 2013, Property Law Act 1952, Sale of Goods Act 1975), each in one version, the Ministry's official revised text as at 31 December 2024: 1,675 provision files in all. [`data/versions.json`](data/versions.json) lists every act with its source PDF, and each act's folder has a `README.md` listing its provisions.
+**What is in it now:** the Constitution of the Independent State of Samoa 1960 and 74 Acts and Ordinances of Samoa (6 of them Ordinances), among them the Crimes Act 2013, Criminal Procedure Act 2016, Evidence Act 2015, Labour and Employment Relations Act 2013, Companies Act 2001 and Property Law Act 1952, each in one version, the Ministry's official revised text as at 31 December 2024: 5,033 provision files in all. [`data/versions.json`](data/versions.json) lists every act with its source PDF, and each act's folder has a `README.md` listing its provisions.
 
-Each Act is in `act/<year>/<name>/` (`act/2013/labour-employment-relations/sec-040.md` is section 40, Annual leave, of the Labour and Employment Relations Act 2013); the Constitution is in [`constitution/constitution/`](constitution/constitution/), one file per article. [`data/paths.json`](data/paths.json) maps each act id to its folder.
+Each Act is in `act/<year>/<name>/` and each Ordinance in `ordinance/<year>/<name>/` ([`STRUCTURE.md`](STRUCTURE.md)) (`act/2013/labour-employment-relations/sec-040.md` is section 40, Annual leave, of the Labour and Employment Relations Act 2013); the Constitution is in [`constitution/constitution/`](constitution/constitution/), one file per article. [`data/paths.json`](data/paths.json) maps each act id to its folder.
 
 The text is in English, as the Ministry's revised PDFs print it, one paragraph per line. The Constitution is also authoritative in Samoan; that text is not part of this record.
 
@@ -62,7 +62,7 @@ Every law commit is authored by the publisher, `Ministry of Justice and Courts A
 
 ## What it does not show
 
-- **Every other Act of Samoa.** The Ministry's catalogue lists 269 consolidated Acts; 8 of them are here.
+- **Every other Act of Samoa.** The Ministry's catalogue lists 269 consolidated Acts and Ordinances (the Constitution among them); 74 of them are here. 194 are held back: their PDF text did not pass the word-for-word and section-number checks (or has no text layer), and are listed in no file here until they do.
 - **Any text but the revision as at 31 December 2024.** The Ministry publishes no earlier versions, and the amending Acts' own texts are not here.
 - **The Samoan text of the Constitution.** Its Revision Notes and the signatures of the Constitutional Convention are left out too.
 - **Some section boundaries** in the Crimes, Companies and Property Law Acts, which were read from the PDFs' plainer text layer: a few sections may sit inside the file before them (the Property Law Act has no file for sections 35 and 53).
@@ -72,7 +72,7 @@ Every law commit is authored by the publisher, `Ministry of Justice and Courts A
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Ministry of Justice and Courts Administration](https://mjca.gov.ws/legislation/legislation.html) (MJCA) | Official revised versions (Legislative Drafting Division, Revision and Publication of Laws Act 2008) | no, the current revision only | One PDF per Act, each "as at 31 December 2024", read from its text layer; retrieved on 29 and 30 October 2026 |
+| [Ministry of Justice and Courts Administration](https://mjca.gov.ws/legislation/legislation.html) (MJCA) | Official revised versions (Legislative Drafting Division, Revision and Publication of Laws Act 2008) | no, the current revision only | One PDF per Act, each "as at 31 December 2024", read from its text layer; retrieved on 29 and 30 October and 27 November 2026 |
 
 ## Licence
 

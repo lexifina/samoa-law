@@ -112,6 +112,944 @@
      "sha256": "3d8b0432e9f8af5b0afc123e5f40ab9ce8ed5ed7a38095a628cd3eeebc96a7f8"
     }
    ]
+  },
+  {
+   "slug": "agriculture-and-fisheries-sector-act-2020",
+   "short": "Agriculture and Fisheries Sector Act",
+   "title": "Agriculture and Fisheries Sector Act 2020",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FAgriculture%20and%20Fisheries%20Sector%20Act%202020.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 36,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FAgriculture%20and%20Fisheries%20Sector%20Act%202020.pdf?alt=media",
+     "sha256": "3f02dc76e8593c191a7611bf4aecb146e54a55960e1a3ca0ea4905ca2162f136"
+    }
+   ]
+  },
+  {
+   "slug": "animals-ordinance-1960",
+   "short": "Animals Ordinance",
+   "title": "Animals Ordinance 1960",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FAnimals%20Ordinance%201960.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 60,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FAnimals%20Ordinance%201960.pdf?alt=media",
+     "sha256": "5dd6a100b1e251c7c29afc071a588720181163e90dd479895ccdda5d3fdf0436"
+    }
+   ]
+  },
+  {
+   "slug": "attorney-general-s-office-act-2013",
+   "short": "Attorney General's Office Act",
+   "title": "Attorney General's Office Act 2013",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FAttorney%20General_s%20Office%20Act%202013.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 27,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FAttorney%20General_s%20Office%20Act%202013.pdf?alt=media",
+     "sha256": "9d393f8659446a87adb2317104d5287f70bc767462fd92c59f55d0308590e5b6"
+    }
+   ]
+  },
+  {
+   "slug": "births-deaths-and-marriages-registration-act-2002",
+   "short": "Births, Deaths and Marriages Registration Act",
+   "title": "Births, Deaths and Marriages Registration Act 2002",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FBirths%2C%20Deaths%20and%20Marriages%20Registration%20Act%202002.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 140,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FBirths%2C%20Deaths%20and%20Marriages%20Registration%20Act%202002.pdf?alt=media",
+     "sha256": "5ebc27d57a96aefcb2402dc06f9fc86b8468a872eedf4be502e9969d1af26981"
+    }
+   ]
+  },
+  {
+   "slug": "carriers-act-1975",
+   "short": "Carriers Act",
+   "title": "Carriers Act 1975",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCarriers%20Act%201975.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 11,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCarriers%20Act%201975.pdf?alt=media",
+     "sha256": "84b2a51a66a3341898b33250adf5c57dfb6ae810d27635192500022b093fad88"
+    }
+   ]
+  },
+  {
+   "slug": "citizenship-investment-act-2015",
+   "short": "Citizenship Investment Act",
+   "title": "Citizenship Investment Act 2015",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCitizenship%20Investment%20Act%202015.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 31,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCitizenship%20Investment%20Act%202015.pdf?alt=media",
+     "sha256": "8884d7e8cd3892b948a3b592774948ca59b71c57ef147459a1eb9db69c2adbf2"
+    }
+   ]
+  },
+  {
+   "slug": "commissions-of-inquiry-act-1964",
+   "short": "Commissions of Inquiry Act",
+   "title": "Commissions of Inquiry Act 1964",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCommissions%20of%20Inquiry%20Act%201964.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 19,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCommissions%20of%20Inquiry%20Act%201964.pdf?alt=media",
+     "sha256": "802c3597a1afecece291e6742f1fc805501c836fe113f992a42d9d7fc1d64d4a"
+    }
+   ]
+  },
+  {
+   "slug": "coroners-act-2017",
+   "short": "Coroners Act",
+   "title": "Coroners Act 2017",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCoroners%20Act%202017.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 103,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FCoroners%20Act%202017.pdf?alt=media",
+     "sha256": "1b5bf3f484e7db5fe1762d90d51401320977b05b488c70c3406fd8f9743395aa"
+    }
+   ]
+  },
+  {
+   "slug": "daylight-saving-act-2009",
+   "short": "Daylight Saving Act",
+   "title": "Daylight Saving Act 2009",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FDaylight%20Saving%20Act%202009.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 7,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FDaylight%20Saving%20Act%202009.pdf?alt=media",
+     "sha256": "f0c7e9fd953e32b90f3832e0e49d6af219a1a9d9a9c41b9eca8755d471140e9c"
+    }
+   ]
+  },
+  {
+   "slug": "declaratory-judgments-act-1988",
+   "short": "Declaratory Judgments Act",
+   "title": "Declaratory Judgments Act 1988",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FDeclaratory%20Judgments%20Act%201988.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 15,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FDeclaratory%20Judgments%20Act%201988.pdf?alt=media",
+     "sha256": "e3e47496de044fdb3c425b7549f74a8d87391333aa9de0402554a163261c9ae3"
+    }
+   ]
+  },
+  {
+   "slug": "dental-practitioners-act-2007",
+   "short": "Dental Practitioners Act",
+   "title": "Dental Practitioners Act 2007",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FDental%20Practitioners%20Act%202007.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 37,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FDental%20Practitioners%20Act%202007.pdf?alt=media",
+     "sha256": "70742adc78362a9eae49a328b4e3cd3472c75c49c400b1d83482e7468c18f502"
+    }
+   ]
+  },
+  {
+   "slug": "electric-power-corporation-act-1980",
+   "short": "Electric Power Corporation Act",
+   "title": "Electric Power Corporation Act 1980",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FElectric%20Power%20Corporation%20Act%201980.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 61,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FElectric%20Power%20Corporation%20Act%201980.pdf?alt=media",
+     "sha256": "caa0138261532b484cad17ddcd330b56239fe3e7237fc3f101dbd6c36e6228aa"
+    }
+   ]
+  },
+  {
+   "slug": "electricity-act-2010",
+   "short": "Electricity Act",
+   "title": "Electricity Act 2010",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FElectricity%20Act%20%202010.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 69,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FElectricity%20Act%20%202010.pdf?alt=media",
+     "sha256": "a416f23d33dba4aca8691bfdab53b5e768386983e396643ddedf255e693384e7"
+    }
+   ]
+  },
+  {
+   "slug": "excise-tax-domestic-administration-act-1984",
+   "short": "Excise Tax (Domestic Administration) Act",
+   "title": "Excise Tax (Domestic Administration) Act 1984",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FExcise%20Tax%20(Domestic%20Administration)%20Act%201984.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 119,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FExcise%20Tax%20(Domestic%20Administration)%20Act%201984.pdf?alt=media",
+     "sha256": "c67367c33567badb2b0ef9bc03a2e2a62932f0a1f2ae641a8645c967cebc2137"
+    }
+   ]
+  },
+  {
+   "slug": "existing-law-adjustment-ordinance-1961",
+   "short": "Existing Law Adjustment Ordinance",
+   "title": "Existing Law Adjustment Ordinance 1961",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FExisting%20Law%20Adjustment%20Ordinance%201961.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 9,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FExisting%20Law%20Adjustment%20Ordinance%201961.pdf?alt=media",
+     "sha256": "2db3c2fd4966e36146e093e6cc43f0ef5cd906c82dde211dfddefa69492da283"
+    }
+   ]
+  },
+  {
+   "slug": "export-import-bank-of-china-loan-act-2008",
+   "short": "Export - Import Bank of China Loan Act",
+   "title": "Export - Import Bank of China Loan Act 2008",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FExport%20-%20Import%20Bank%20of%20China%20Loan%20Act%202008.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 6,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FExport%20-%20Import%20Bank%20of%20China%20Loan%20Act%202008.pdf?alt=media",
+     "sha256": "b883bbd69099667ca52061a8e216b0522e29b31737aaf81dbd14897ec050d2b7"
+    }
+   ]
+  },
+  {
+   "slug": "film-control-act-1978",
+   "short": "Film Control Act",
+   "title": "Film Control Act 1978",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FFilm%20Control%20Act%201978.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 41,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FFilm%20Control%20Act%201978.pdf?alt=media",
+     "sha256": "b814ad637f77050b035d137570356ea78e93ac51aa865ff151e2d115a4bb9acd"
+    }
+   ]
+  },
+  {
+   "slug": "financial-institutions-act-1996",
+   "short": "Financial Institutions Act",
+   "title": "Financial Institutions Act 1996",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FFinancial%20Institutions%20Act%201996.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 50,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FFinancial%20Institutions%20Act%201996.pdf?alt=media",
+     "sha256": "18052c7bb358ca623de20e0c82ea9a4222e397d380f0b314c4385b75a456e7b7"
+    }
+   ]
+  },
+  {
+   "slug": "fisheries-management-act-2016",
+   "short": "Fisheries Management Act",
+   "title": "Fisheries Management Act 2016",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FFisheries%20Management%20Act%202016.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 119,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FFisheries%20Management%20Act%202016.pdf?alt=media",
+     "sha256": "aae139381d2dafd2c224fbd35bc0f2f28172bc493a0f81951be34143dcecbb93"
+    }
+   ]
+  },
+  {
+   "slug": "gaming-control-act-2017",
+   "short": "Gaming Control Act",
+   "title": "Gaming Control Act 2017",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FGaming%20Control%20Act%202017.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 91,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FGaming%20Control%20Act%202017.pdf?alt=media",
+     "sha256": "5d6201d70984a70e02cb0d572b90eecc08546251e5d03c734ecf15cdff525327"
+    }
+   ]
+  },
+  {
+   "slug": "geneva-conventions-act-2015",
+   "short": "Geneva Conventions Act",
+   "title": "Geneva Conventions Act 2015",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FGeneva%20Conventions%20Act%202015.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 24,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FGeneva%20Conventions%20Act%202015.pdf?alt=media",
+     "sha256": "3c1e89834164bd85146ee5958a329ecd991f01ecf56b78a25bacce8720b53b54"
+    }
+   ]
+  },
+  {
+   "slug": "honours-and-awards-act-1999",
+   "short": "Honours and Awards Act",
+   "title": "Honours and Awards Act 1999",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FHonours%20and%20Awards%20Act%201999.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 34,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FHonours%20and%20Awards%20Act%201999.pdf?alt=media",
+     "sha256": "44ee904574bb056456ad279637a0ffc233a566f4510ca069f8e825a8e0b20493"
+    }
+   ]
+  },
+  {
+   "slug": "indecent-publications-ordinance-1960",
+   "short": "Indecent Publications Ordinance",
+   "title": "Indecent Publications Ordinance 1960",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FIndecent%20Publications%20Ordinance%201960.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 12,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FIndecent%20Publications%20Ordinance%201960.pdf?alt=media",
+     "sha256": "433e1ccb614810f85b9259c86854e2d2133329cfbc49471c85bda20ff19021d2"
+    }
+   ]
+  },
+  {
+   "slug": "insurance-act-2007",
+   "short": "Insurance Act",
+   "title": "Insurance Act 2007",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInsurance%20Act%202007.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 124,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInsurance%20Act%202007.pdf?alt=media",
+     "sha256": "f18b5a791514eba5bc24c655926147e061f4a17d0a8dc483b90d9393ca5e3ac7"
+    }
+   ]
+  },
+  {
+   "slug": "intellectual-property-act-2011",
+   "short": "Intellectual Property Act",
+   "title": "Intellectual Property Act 2011",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FIntellectual%20Property%20Act%202011.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 167,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FIntellectual%20Property%20Act%202011.pdf?alt=media",
+     "sha256": "c3cfb4c3a2d6e4c7ca9eb8acb64b2a10807639f3c9813d402ec5490829cd2419"
+    }
+   ]
+  },
+  {
+   "slug": "international-criminal-court-act-2007",
+   "short": "International Criminal Court Act",
+   "title": "International Criminal Court Act 2007",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInternational%20Criminal%20Court%20Act%202007.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 123,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInternational%20Criminal%20Court%20Act%202007.pdf?alt=media",
+     "sha256": "a417a2125696d224b0bc4cadee896d60ea9b88bed1d95edfe6c1fa8b73c44442"
+    }
+   ]
+  },
+  {
+   "slug": "international-insurance-act-1988",
+   "short": "International Insurance Act",
+   "title": "International Insurance Act 1988",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInternational%20Insurance%20Act%201988.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 55,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInternational%20Insurance%20Act%201988.pdf?alt=media",
+     "sha256": "df203714b37267279977e2e27129a8f8d6781d8b5cc65d8891c3ffd556e3ac35"
+    }
+   ]
+  },
+  {
+   "slug": "international-mutual-funds-act-2008",
+   "short": "International Mutual Funds Act",
+   "title": "International Mutual Funds Act 2008",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInternational%20Mutual%20Funds%20Act%202008.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 57,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInternational%20Mutual%20Funds%20Act%202008.pdf?alt=media",
+     "sha256": "cb61c4dbed19502632b20c397015603d331c8165edba706106e263aea1477ce3"
+    }
+   ]
+  },
+  {
+   "slug": "international-transfer-of-prisoners-act-2009",
+   "short": "International Transfer of Prisoners Act",
+   "title": "International Transfer of Prisoners Act 2009",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInternational%20Transfer%20of%20Prisoners%20Act%202009.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 50,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FInternational%20Transfer%20of%20Prisoners%20Act%202009.pdf?alt=media",
+     "sha256": "4678f032ca27449dc592610990e8b53c3f08ba761cc0a5f3f8d320ac003d5ed1"
+    }
+   ]
+  },
+  {
+   "slug": "judgment-summonses-act-1965",
+   "short": "Judgment Summonses Act",
+   "title": "Judgment Summonses Act 1965",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FJudgment%20Summonses%20Act%201965.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 22,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FJudgment%20Summonses%20Act%201965.pdf?alt=media",
+     "sha256": "22ae4a55530e99940fce81e0b607a2b72fac80641ac43bdbe63a9e37adbdaf02"
+    }
+   ]
+  },
+  {
+   "slug": "land-for-foreign-purposes-act-1993",
+   "short": "Land For Foreign Purposes Act",
+   "title": "Land For Foreign Purposes Act 1993",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLand%20For%20Foreign%20Purposes%20Act%201993.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 7,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLand%20For%20Foreign%20Purposes%20Act%201993.pdf?alt=media",
+     "sha256": "b3bce158e2857731d8bfde00a5a354589d5bc69486e5b81fa7d2dd99cdcf555a"
+    }
+   ]
+  },
+  {
+   "slug": "land-valuation-act-2010",
+   "short": "Land Valuation Act",
+   "title": "Land Valuation Act 2010",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLand%20Valuation%20Act%20%202010.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 27,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLand%20Valuation%20Act%20%202010.pdf?alt=media",
+     "sha256": "071b06a5d2391acb5362363909f018b7d9a180179b5f3d7368e4bf46c865c7fa"
+    }
+   ]
+  },
+  {
+   "slug": "lawyers-and-legal-practice-act-2014",
+   "short": "Lawyers and Legal Practice Act",
+   "title": "Lawyers and Legal Practice Act 2014",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLawyers%20and%20Legal%20Practice%20Act%202014.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 80,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLawyers%20and%20Legal%20Practice%20Act%202014.pdf?alt=media",
+     "sha256": "93f5362a7f0abf2a087baa4e4892e1cc8ec40e2cf76fc4c9a9acab1d3e49a38a"
+    }
+   ]
+  },
+  {
+   "slug": "leasing-and-licensing-of-customary-land-act-1965",
+   "short": "Leasing and Licensing of Customary Land Act",
+   "title": "Leasing and Licensing of Customary Land Act 1965",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLeasing%20and%20Licensing%20of%20Customary%20Land%20Act%201965.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 33,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLeasing%20and%20Licensing%20of%20Customary%20Land%20Act%201965.pdf?alt=media",
+     "sha256": "9cec278b7f30555a37e75432b18bc79338d9d3d90f218f17ced0e3c013401e76"
+    }
+   ]
+  },
+  {
+   "slug": "legislative-assembly-powers-and-privileges-ordinance-1960",
+   "short": "Legislative Assembly Powers and Privileges Ordinance",
+   "title": "Legislative Assembly Powers and Privileges Ordinance 1960",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLegislative%20Assembly%20Powers%20and%20Privileges%20Ordinance%201960.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 43,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLegislative%20Assembly%20Powers%20and%20Privileges%20Ordinance%201960.pdf?alt=media",
+     "sha256": "771ceb24ec45d229502aaa57fd50ad7b25222e0bc56940cbf386d5e9329d6272"
+    }
+   ]
+  },
+  {
+   "slug": "life-assurance-corporation-act-1976",
+   "short": "Life Assurance Corporation Act",
+   "title": "Life Assurance Corporation Act 1976",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLife%20Assurance%20Corporation%20Act%201976.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 47,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLife%20Assurance%20Corporation%20Act%201976.pdf?alt=media",
+     "sha256": "5b51ea0a951ffe14c04b0c8b9734fd7457d9dbc2bbdbeee59262d1cd56786390"
+    }
+   ]
+  },
+  {
+   "slug": "limitation-act-1975",
+   "short": "Limitation Act",
+   "title": "Limitation Act 1975",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLimitation%20Act%201975.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 45,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLimitation%20Act%201975.pdf?alt=media",
+     "sha256": "3b1f12527ee5babb533884728e491c7dc707d4488f59c3678113a61455f5a998"
+    }
+   ]
+  },
+  {
+   "slug": "maritime-zones-act-1999",
+   "short": "Maritime Zones Act",
+   "title": "Maritime Zones Act 1999",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FMaritime%20Zones%20Act%201999.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 37,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FMaritime%20Zones%20Act%201999.pdf?alt=media",
+     "sha256": "83b6ecc2490221755943c0afcc27cd6012643b4f042a066b97816cf7f121164d"
+    }
+   ]
+  },
+  {
+   "slug": "ministry-of-women-affairs-act-1990",
+   "short": "Ministry of Women Affairs Act",
+   "title": "Ministry of Women Affairs Act 1990",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FMinistry%20of%20Women%20Affairs%20Act%201990.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 24,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FMinistry%20of%20Women%20Affairs%20Act%201990.pdf?alt=media",
+     "sha256": "078e650d9aff6f3ab5ba90fbad74dac27e23332b93c53625144dbf715d4277d5"
+    }
+   ]
+  },
+  {
+   "slug": "national-digital-identification-act-2024",
+   "short": "National Digital Identification Act",
+   "title": "National Digital Identification Act 2024",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FNational%20Digital%20Identification%20Act%202024.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 71,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FNational%20Digital%20Identification%20Act%202024.pdf?alt=media",
+     "sha256": "46b07155afb76477704e9015edd46c42f96e3f4a968c0d811eb73216082b136a"
+    }
+   ]
+  },
+  {
+   "slug": "notaries-public-act-1974",
+   "short": "Notaries Public Act",
+   "title": "Notaries Public Act 1974",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FNotaries%20Public%20Act%201974.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 7,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FNotaries%20Public%20Act%201974.pdf?alt=media",
+     "sha256": "2fb701c0916bc6eb49b65506ecce2b7c131fd41a5d487ea9a73bac16df9c7b8c"
+    }
+   ]
+  },
+  {
+   "slug": "opec-fund-loans-act-2012",
+   "short": "OPEC Fund Loans Act",
+   "title": "OPEC Fund Loans Act 2012",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FOPEC%20Fund%20Loans%20Act%202012.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 7,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FOPEC%20Fund%20Loans%20Act%202012.pdf?alt=media",
+     "sha256": "e22c4c811c99006b26a9338a8b730dafbb015287e838dcd19c4076090bce8d34"
+    }
+   ]
+  },
+  {
+   "slug": "oceania-university-of-medicine-samoa-act-2002",
+   "short": "Oceania University of Medicine (Samoa) Act",
+   "title": "Oceania University of Medicine (Samoa) Act 2002",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FOceania%20University%20of%20Medicine%20(Samoa)%20Act%202002.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 31,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FOceania%20University%20of%20Medicine%20(Samoa)%20Act%202002.pdf?alt=media",
+     "sha256": "cadc592f73dd4703bc9610d37396e134ca981c338879f24d7597a3378f7e3691"
+    }
+   ]
+  },
+  {
+   "slug": "ombudsman-komesina-o-sulufaiga-act-2013",
+   "short": "Ombudsman (Komesina o Sulufaiga) Act",
+   "title": "Ombudsman (Komesina o Sulufaiga) Act 2013",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FOmbudsman%20(Komesina%20o%20Sulufaiga)%20Act%202013.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 88,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FOmbudsman%20(Komesina%20o%20Sulufaiga)%20Act%202013.pdf?alt=media",
+     "sha256": "f74f2b700f8cf720355e27b54b0d8bb48c50cf86102403bb4e80ec4f527b3556"
+    }
+   ]
+  },
+  {
+   "slug": "partnership-act-1975",
+   "short": "Partnership Act",
+   "title": "Partnership Act 1975",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPartnership%20Act%201975.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 52,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPartnership%20Act%201975.pdf?alt=media",
+     "sha256": "2230c63fe9e404a12b2a3d679302c501bce6041201015f98025d2fde02c0ad0b"
+    }
+   ]
+  },
+  {
+   "slug": "pharmacy-act-2007",
+   "short": "Pharmacy Act",
+   "title": "Pharmacy Act 2007",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPharmacy%20Act%202007.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 40,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPharmacy%20Act%202007.pdf?alt=media",
+     "sha256": "1dde9a265a8ee04e145471ba5ef23fe54d957090b79839f3bf7ef76d1601563d"
+    }
+   ]
+  },
+  {
+   "slug": "plumbers-act-2014",
+   "short": "Plumbers Act",
+   "title": "Plumbers Act 2014",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPlumbers%20Act%202014.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 63,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPlumbers%20Act%202014.pdf?alt=media",
+     "sha256": "112a20c5fefd1fa2c40c78e4c2c156adde313fbf339b61bf3509dc6019575f06"
+    }
+   ]
+  },
+  {
+   "slug": "produce-export-ordinance-1961",
+   "short": "Produce Export Ordinance",
+   "title": "Produce Export Ordinance 1961",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FProduce%20Export%20Ordinance%201961.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 11,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FProduce%20Export%20Ordinance%201961.pdf?alt=media",
+     "sha256": "48b23a964247c14f05b8ea136b0068fee83de65feff67c02595df13e2b5f4f60"
+    }
+   ]
+  },
+  {
+   "slug": "public-holidays-act-2008",
+   "short": "Public Holidays Act",
+   "title": "Public Holidays Act 2008",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPublic%20Holidays%20Act%202008.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 18,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FPublic%20Holidays%20Act%202008.pdf?alt=media",
+     "sha256": "bba1d9dfecf7b702cf1b3c5c58b2edf8210bad2e4c7a312a24053ea4d4e7b7c1"
+    }
+   ]
+  },
+  {
+   "slug": "receiverships-act-2006",
+   "short": "Receiverships Act",
+   "title": "Receiverships Act 2006",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FReceiverships%20Act%202006.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 38,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FReceiverships%20Act%202006.pdf?alt=media",
+     "sha256": "f90e02d4941566021d8d5fe60a288512ab5490c57b4d4536638883a0dd1720d4"
+    }
+   ]
+  },
+  {
+   "slug": "regulations-ordinance-1953",
+   "short": "Regulations Ordinance",
+   "title": "Regulations Ordinance 1953",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FRegulations%20Ordinance%201953.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 11,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FRegulations%20Ordinance%201953.pdf?alt=media",
+     "sha256": "2fff3809cdfc8f07e483b163b99b7d66efcde436ae3adfb93bbd55deedd21375"
+    }
+   ]
+  },
+  {
+   "slug": "revision-and-publication-of-laws-act-2008",
+   "short": "Revision and Publication of Laws Act",
+   "title": "Revision and Publication of Laws Act 2008",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FRevision%20and%20Publication%20of%20Laws%20Act%202008.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 16,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FRevision%20and%20Publication%20of%20Laws%20Act%202008.pdf?alt=media",
+     "sha256": "1d0a23a77316fe8112b433c0d6f3b6fd60d2c927fd6b4eba2d18fb74901fd174"
+    }
+   ]
+  },
+  {
+   "slug": "samoa-institute-of-accountants-act-2006",
+   "short": "Samoa Institute of Accountants Act",
+   "title": "Samoa Institute of Accountants Act 2006",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSamoa%20Institute%20of%20Accountants%20Act%202006.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 30,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSamoa%20Institute%20of%20Accountants%20Act%202006.pdf?alt=media",
+     "sha256": "3881d383babaa39372c99acc27c442c95b768efe7a4ee827ae4a974a153ec72a"
+    }
+   ]
+  },
+  {
+   "slug": "samoa-sports-facilities-authority-act-2007",
+   "short": "Samoa Sports Facilities Authority Act",
+   "title": "Samoa Sports Facilities Authority Act 2007",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSamoa%20Sports%20Facilities%20Authority%20Act%202007.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 43,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSamoa%20Sports%20Facilities%20Authority%20Act%202007.pdf?alt=media",
+     "sha256": "178f1b8dbfbb20fa26d688a39c7d5ff8b139ea93d2a8e9823ceb65ec32af3a0a"
+    }
+   ]
+  },
+  {
+   "slug": "scientific-research-organisation-of-samoa-act-2006",
+   "short": "Scientific Research Organisation of Samoa Act",
+   "title": "Scientific Research Organisation of Samoa Act 2006",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FScientific%20Research%20Organisation%20of%20Samoa%20Act%202006.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 33,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FScientific%20Research%20Organisation%20of%20Samoa%20Act%202006.pdf?alt=media",
+     "sha256": "0bbc2f134368e143070440afb9b5d30507d0ddf35aeec432e11472793530290e"
+    }
+   ]
+  },
+  {
+   "slug": "slaughter-and-meat-supply-act-2015",
+   "short": "Slaughter and Meat Supply Act",
+   "title": "Slaughter and Meat Supply Act 2015",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSlaughter%20and%20Meat%20Supply%20Act%202015.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 43,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSlaughter%20and%20Meat%20Supply%20Act%202015.pdf?alt=media",
+     "sha256": "0a050a40719ce60f5958ab896064915494d3267b2d23a4c551a1f4df11e5aeff"
+    }
+   ]
+  },
+  {
+   "slug": "special-purpose-international-companies-act-2012",
+   "short": "Special Purpose International Companies Act",
+   "title": "Special Purpose International Companies Act 2012",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSpecial%20Purpose%20International%20Companies%20Act%202012.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 184,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSpecial%20Purpose%20International%20Companies%20Act%202012.pdf?alt=media",
+     "sha256": "b0a77cf166c8ba1e9f26db3fc4764c3508e6ab919bcb83aec6bef6d5d8629968"
+    }
+   ]
+  },
+  {
+   "slug": "statistics-act-2015",
+   "short": "Statistics Act",
+   "title": "Statistics Act 2015",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FStatistics%20Act%20%202015.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 49,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FStatistics%20Act%20%202015.pdf?alt=media",
+     "sha256": "07511d9c4b699113fe33e055f4f00107537ffff00dbeae0b6020ee2f1c6a46f4"
+    }
+   ]
+  },
+  {
+   "slug": "survey-act-2010",
+   "short": "Survey Act",
+   "title": "Survey Act 2010",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSurvey%20Act%202010.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 53,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FSurvey%20Act%202010.pdf?alt=media",
+     "sha256": "fbd5619f65e6cc60c3d99b3345aec85eeb04c50cd1300e044c86e6f17a55b26b"
+    }
+   ]
+  },
+  {
+   "slug": "teachers-act-2016",
+   "short": "Teachers Act",
+   "title": "Teachers Act 2016",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FTeachers%20Act%202016.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 66,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FTeachers%20Act%202016.pdf?alt=media",
+     "sha256": "0beb8707e25d75964012972cd43fe3a5699198932edae1fffbaa20ec73612a6c"
+    }
+   ]
+  },
+  {
+   "slug": "trusts-act-2014",
+   "short": "Trusts Act",
+   "title": "Trusts Act 2014",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FTrusts%20Act%202014.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 106,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FTrusts%20Act%202014.pdf?alt=media",
+     "sha256": "1e3d850fa087f596199b08279b363a4ed720cadb9fdba4579f0b7e112f13ea74"
+    }
+   ]
+  },
+  {
+   "slug": "unit-trust-of-samoa-loans-act-2013",
+   "short": "Unit Trust of Samoa Loans Act",
+   "title": "Unit Trust of Samoa Loans Act 2013",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FUnit%20Trust%20of%20Samoa%20Loans%20Act%202013.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 7,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FUnit%20Trust%20of%20Samoa%20Loans%20Act%202013.pdf?alt=media",
+     "sha256": "749b04adc80cc46f2cb87e74e5ad64dda1ca8bbab2f3c827bddb81c3420a4f23"
+    }
+   ]
+  },
+  {
+   "slug": "value-added-goods-and-services-tax-act-2015",
+   "short": "Value Added Goods and Services Tax Act",
+   "title": "Value Added Goods and Services Tax Act 2015",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FValue%20Added%20Goods%20and%20Services%20Tax%20Act%202015.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 70,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FValue%20Added%20Goods%20and%20Services%20Tax%20Act%202015.pdf?alt=media",
+     "sha256": "b43039f469fc6d178caf353830d5eb137fb491a118e434d7595ea5ab805b66f8"
+    }
+   ]
+  },
+  {
+   "slug": "village-fono-act-1990",
+   "short": "Village Fono Act",
+   "title": "Village Fono Act 1990",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FVillage%20Fono%20Act%201990.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 20,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FVillage%20Fono%20Act%201990.pdf?alt=media",
+     "sha256": "b313c3927d6bdc8a7c125620a51f38628d8ca1224134e6d130b0fadec5eb0726"
+    }
+   ]
+  },
+  {
+   "slug": "waste-management-act-2010",
+   "short": "Waste Management Act",
+   "title": "Waste Management Act 2010",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FWaste%20Management%20Act%202010.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 55,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FWaste%20Management%20Act%202010.pdf?alt=media",
+     "sha256": "e083c3741ff1c1dc5d58ccd7865b59d89867c225b1f2f0df366dd44a9ce23bd7"
+    }
+   ]
+  },
+  {
+   "slug": "water-scheme-act-2015",
+   "short": "Water Scheme Act",
+   "title": "Water Scheme Act 2015",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FWater%20Scheme%20Act%202015.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 51,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FWater%20Scheme%20Act%202015.pdf?alt=media",
+     "sha256": "4b68561c64a170f82f05dbe2b5423b80fa9242990913464d38ee79a520aed320"
+    }
+   ]
+  },
+  {
+   "slug": "young-offenders-act-2007",
+   "short": "Young Offenders Act",
+   "title": "Young Offenders Act 2007",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FYoung%20Offenders%20Act%202007.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 33,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FYoung%20Offenders%20Act%202007.pdf?alt=media",
+     "sha256": "a9c058c5c87bd5faf7edf4fb1a079097db69d21f9bc8025ee0ef28a12820b558"
+    }
+   ]
   }
  ]
 }

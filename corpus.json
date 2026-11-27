@@ -1,0 +1,26 @@
+{
+  "corpus": "ws/national/acts",
+  "name": "Samoa law: the Constitution and the consolidated Acts and Ordinances of Samoa as the Ministry of Justice and Courts Administration publishes them",
+  "label": "Samoa",
+  "language": "en",
+  "acts": 75,
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Kind",
+      "Consolidated"
+    ],
+    "time": "12:00 Pacific/Apia (UTC+13)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "Ministry of Justice and Courts Administration of Samoa (Legislative Drafting Division), as the oldest version available",
+  "citation": {
+    "file": "((?:act|ordinance)/[0-9]{4}/[^/]+)/sec-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(section|s\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://mjca.gov.ws/legislation/legislation.html"
+  ]
+}

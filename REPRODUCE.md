@@ -86,3 +86,9 @@ Model use at data-build time:
 - none
 - none
 - none
+
+## Acts added on 2026-11-27
+
+The history above was then grown append-only by a runner (kept privately with the other Lexifina build scripts): it lists the Ministry's catalogue (Firestore collection `consolidatedActs` behind <https://mjca.gov.ws/legislation/legislation.html>), downloads each Act's PDF from the Ministry's file host (one request at a time, about a second apart), reads its text layer with `pdftotext -raw` (no OCR), splits it into provision files with the same rules as the acts above, and appends one commit per act, dated noon on the Revision Notes' as-at day.
+
+An act is added only when every word of its text from the long title to the Revision Notes is in its provision files in order, with nothing extra, its section numbers run without a gap, and its Revision Notes state the as-at day. 74 acts are in; 194 are held for now.
