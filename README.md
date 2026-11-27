@@ -11,6 +11,8 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Constitution of the Independent State of Samoa 1960 and 224 Acts and Ordinances of Samoa (15 of them Ordinances), among them the Crimes Act 2013, Criminal Procedure Act 2016, Evidence Act 2015, Labour and Employment Relations Act 2013, Companies Act 2001, Land and Titles Act 2020, Judicature Act 2020, Family Court Act 2014 and Property Law Act 1952, each in one version, the Ministry's official revised text as at 31 December 2024: 12,458 provision files in all. [`data/versions.json`](data/versions.json) lists every act with its source PDF, and each act's folder has a `README.md` listing its provisions.
 
+**Acts as passed, 2025-26:** Appropriation Act 2025-2026 (`act/2025/appropriation-2025-2026/`, in force 2025-10-29); District Development Act 2026 (`act/2026/district-development/`, in force 2026-07-01); Lands, Surveys and Environment Amendment Act 2026 (`act/2026/lands-surveys-and-environment-amendment/`, in force 2026-10-23), from the Parliament of Samoa's PDFs; each dated by its own commencement section or, when it commences on assent, its assent day. Held for a commencement date: Constitution Amendment Act 2025, Credit Information Register Act 2026, Land and Titles Amendment Act 2025, Miscellaneous (Removal of Tax Exemption for International Companies) Amendment Act 2026.
+
 Each Act is in `act/<year>/<name>/` and each Ordinance in `ordinance/<year>/<name>/` ([`STRUCTURE.md`](STRUCTURE.md)) and each Ordinance in `ordinance/<year>/<name>/` ([`STRUCTURE.md`](STRUCTURE.md)) and each Ordinance in `ordinance/<year>/<name>/` ([`STRUCTURE.md`](STRUCTURE.md)) (`act/2013/labour-employment-relations/sec-040.md` is section 40, Annual leave, of the Labour and Employment Relations Act 2013); the Constitution is in [`constitution/constitution/`](constitution/constitution/), one file per article. [`data/paths.json`](data/paths.json) maps each act id to its folder.
 
 The text is in English, as the Ministry's revised PDFs print it, one paragraph per line. The Constitution is also authoritative in Samoan; that text is not part of this record.
@@ -72,6 +74,7 @@ Every law commit is authored by the publisher, `Ministry of Justice and Courts A
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
+| [Parliament of Samoa](https://palemene.ws/bills-acts-and-regulations/) | Acts as passed | no | English PDFs on its SharePoint; retrieved on 27 November 2026 |
 | [Ministry of Justice and Courts Administration](https://mjca.gov.ws/legislation/legislation.html) (MJCA) | Official revised versions (Legislative Drafting Division, Revision and Publication of Laws Act 2008) | no, the current revision only | One PDF per Act, each "as at 31 December 2024", read from its text layer; retrieved on 29 and 30 October and 27 November 2026 |
 
 ## Licence

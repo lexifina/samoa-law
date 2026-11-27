@@ -3150,6 +3150,54 @@
      "sha256": "80abb10bfc5bc74b678064846d64a747778b64feb0c56b072d125dbf4b65d133"
     }
    ]
+  },
+  {
+   "slug": "appropriation-act-2025-2026",
+   "short": "Appropriation Act 2025-2026",
+   "title": "Appropriation Act 2025-2026",
+   "url": "https://palemene.sharepoint.com/:b:/s/palamenefiles/IQDYkwY1CvFnT6GXpWWuwGEpAe_kxm6ymiTM1_Ifzy_59Ao?e=3UEbIs",
+   "source": "parliament",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 5,
+     "source_url": "https://palemene.sharepoint.com/:b:/s/palamenefiles/IQDYkwY1CvFnT6GXpWWuwGEpAe_kxm6ymiTM1_Ifzy_59Ao?e=3UEbIs",
+     "sha256": "0941d6bf46be562e6f02e9b248cae2a0aee38f826c875de237527eec18c168a3",
+     "as_passed": true
+    }
+   ]
+  },
+  {
+   "slug": "district-development-act-2026",
+   "short": "District Development Act 2026",
+   "title": "District Development Act 2026",
+   "url": "https://palemene.sharepoint.com/:b:/s/palamenefiles/IQCJWjqhCao-Rall8EivigPXAQS_44uPJTAz4LkHJoC9MT8?e=mW5wqI",
+   "source": "parliament",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 79,
+     "source_url": "https://palemene.sharepoint.com/:b:/s/palamenefiles/IQCJWjqhCao-Rall8EivigPXAQS_44uPJTAz4LkHJoC9MT8?e=mW5wqI",
+     "sha256": "4efda5b039da750498cb18b64869edaa454c9c9e510917fb8e5fc3e5fabe26a8",
+     "as_passed": true
+    }
+   ]
+  },
+  {
+   "slug": "lands-surveys-and-environment-amendment-act-2026",
+   "short": "Lands, Surveys and Environment Amendment Act 2026",
+   "title": "Lands, Surveys and Environment Amendment Act 2026",
+   "url": "https://palemene.sharepoint.com/:b:/r/sites/palamenefiles/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fpalamenefiles%2FShared%20Documents%2FFiles%2F2026%20Documents%2FActs%2F2026%20Acts%2FLands%2C%20Surveys%20and%20Environment%20Amendment%20Act%202026%2FLands%2C%20Surveys%20and%20Environment%20Amendment%20Act%202026%20%2D%20Eng%2Epdf&parent=%2Fsites%2Fpalamenefiles%2FShared%20Documents%2FFiles%2F2026%20Documents%2FActs%2F2026%20Acts%2FLands%2C%20Surveys%20and%20Environment%20Amendment%20Act%202026&p=true&share=cQpjZivD%2DctVT417E1M5DciUEgUCMVF%2DmXw%5Fx97SFNCcPvSGPQ",
+   "source": "parliament",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 11,
+     "source_url": "https://palemene.sharepoint.com/:b:/r/sites/palamenefiles/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fpalamenefiles%2FShared%20Documents%2FFiles%2F2026%20Documents%2FActs%2F2026%20Acts%2FLands%2C%20Surveys%20and%20Environment%20Amendment%20Act%202026%2FLands%2C%20Surveys%20and%20Environment%20Amendment%20Act%202026%20%2D%20Eng%2Epdf&parent=%2Fsites%2Fpalamenefiles%2FShared%20Documents%2FFiles%2F2026%20Documents%2FActs%2F2026%20Acts%2FLands%2C%20Surveys%20and%20Environment%20Amendment%20Act%202026&p=true&share=cQpjZivD%2DctVT417E1M5DciUEgUCMVF%2DmXw%5Fx97SFNCcPvSGPQ",
+     "sha256": "2948b580710a56def4d05e81f846705d623882be503dfe38d3fded158465cf53",
+     "as_passed": true
+    }
+   ]
   }
  ]
 }
