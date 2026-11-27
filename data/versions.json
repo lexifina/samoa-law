@@ -3122,6 +3122,34 @@
      "sha256": "e211007aff9cd366380868d049b4a0d9311f471c8cb36ef7c3879ce471f6d892"
     }
    ]
+  },
+  {
+   "slug": "incorporated-societies-ordinance-1952",
+   "short": "Incorporated Societies Ordinance",
+   "title": "Incorporated Societies Ordinance 1952",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FIncorporated%20Societies%20Ordinance%201952.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 77,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FIncorporated%20Societies%20Ordinance%201952.pdf?alt=media",
+     "sha256": "65e5fc9702301fc892126a2ff9514a208195c09b102aa673695b1464acb7df45"
+    }
+   ]
+  },
+  {
+   "slug": "land-and-titles-act-2020",
+   "short": "Land and Titles Act",
+   "title": "Land and Titles Act 2020",
+   "url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLand%20and%20Titles%20Act%202020.pdf?alt=media",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 111,
+     "source_url": "https://firebasestorage.googleapis.com/v0/b/mjca-samoa.firebasestorage.app/o/legislation%2FLand%20and%20Titles%20Act%202020.pdf?alt=media",
+     "sha256": "80abb10bfc5bc74b678064846d64a747778b64feb0c56b072d125dbf4b65d133"
+    }
+   ]
   }
  ]
 }
